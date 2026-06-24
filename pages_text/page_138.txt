@@ -1,0 +1,36 @@
+If m3 takes the same amount of time (or less) as m1 and m2 (plus one
+time unit) is completely retraced in the same amount of time (or less) that
+it took to form, there is a strong possiblity of a "missing" xwave hidden
+toward the middle of m0; place ":c3" at the end of ml. If the end of m1 is,
+exceeded during the formation of m2, add an "x" in front of the ":c3" at the
+tend of ml. If m3 is retraced at least 61.8%, itis possible m1 is the first leg
+of a Flat; add ":F3" to the end of ml
+
+If m3 takes more time than m1, place ":3/:c3" at the end of ml. If the
+end of m1 is exceeded during the formation of m2, add an "x" in front of
+wage
+
+Condition "e” {:F3i
+Categories
+m2 (inclusive)
+
+I m3 (plus one time unit) is completely retraced in the same amount of
+time (or less) that it took to form, ":F3” is the only reasonable choice,
+place it atthe end of m1.
+
+If m3 is not more than 161.8% of m2 and m3 is not completely
+retraced and m4 is retraced faster than it took to form, m1 could be the x-
+wave of a complex correction; add "x:c3" to the end of ml. In this
+scenario, if m(-1) is more than 61.8% of m0, m0 would be missing an x-
+wave toward its center.
+
+I m2 (plus one time unit) is completely retraced in the same amount of
+time (oF less) that it took to form and m(-1) is not more than 61.8% of m0
+and m3 is retraced no more than 61.8% and m3 (or m3 through m5)
+achieved a price distance equal to m1 (or more) within the same amount of
+time (or less) as mL, m1 may be part of a Complex Correction in which m0
+Contains a "missing" x-wave toward its center or ml is the x-wave after a
+Zigzag; place” :F3/[:c3]" at the end of m1 and mark (with a pencil) the
+
+if m3 is between 100% and 261.8% of
+

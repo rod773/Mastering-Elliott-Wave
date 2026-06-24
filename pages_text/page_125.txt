@@ -1,0 +1,41 @@
+Rule 3 (-r3:3/5/5¢st3y:L5)
+Condition “a” — if m0 is less than 38.2% of m1
+
+1 m3 is more than 261.8% of m1, m1 most likely is the center portion
+of a Running Correction, but it could also be the end of a Zigzag within a
+Complex Comection; place “sc3(s5)" atthe end of ml to show these two
+Possibilities respectively. If m1 is the longest when compared to m(-1) and
+‘m(-3) and m2 breaks a trendline drawn across the low ofm(-2)and m0 in a
+period of time equal to or less than that taken by m1, ml may be the Sth
+wave of a Sth Extension pattern; add [:L5] to the end of m1. If m(-1) is
+more than 161.8% of m1, drop ":sS" from the ist. If m(-1) isles than
+61.8% of m3, more than one Elliott pattern (each of a larger magnitude)
+may have completed at m2.
+
+If m3 is between 161.8 and 261.8% (inclusive) of m1, m1 may be the
+center portion of an Impulse pattern with a Sth wave Extension, the center
+portion ofa Running Correction, or the firs eg of an Eliot pattern within
+a Complex Correction; place ":s5/:c3/:F3" at the end of m1 to list these
+three possiblities in their respective order. If ml is thé longest when
+compared to m(-1) and m(-3) and m2 breaks a wendline drawn across the
+Jow ofm{-2and m0 in a period of time equal to or less than that taken by
+mt, mi may be the Sth wave of a Sth Extension pattem; add (:L5] to the
+end of m1. If m(-1) is longer than m3, drop ":c3" from the Structure list. If
+m(-1) is longer than m1, the ":s5" (if used for m1) could only be the c-
+wave of a Zigzag within a Complex Correction; m2 would be an x-wave
+which is then most likely followed by wave-a of a Contracting Triangle.
+
+If m3 is at least 100, but less than 161,8% of m1. m1 may be the first
+Jeg of a Standard Eliott pattern within a Complex Correction, wave-3 of
+an Impulse pattern with a Sth-wave Extension or the c-wave of a Zigzag
+within an ongoing Complex Corecion; place "sF.3:5s5" atthe end of ml
+to show these three possibilities respectively. If mis the longest when
+compared to m(-1) and m(-3) and m2 breaks a trendline drawn across the
+low of mC:2) and m0 in a period of time equal to or less than that taken by
+ml, m1 may be the 5th wave of a Sth Extension pattern; add [:L5] to the
+end of mi. If m4 is smaller than m3, drop ":F3" from the Structure list. If
+‘m0 simultaneously takes less time than m(-1) and m1, drop "5" from the
+list. If m(-1) is longer than m1 and the ":s5" is used, m1 could only be the
+c-wave of a Zigzag within a Complex Correction; m2 would bean x-wave.
+
+000123

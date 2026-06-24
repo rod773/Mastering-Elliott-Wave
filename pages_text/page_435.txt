@@ -1,0 +1,41 @@
+Terminal Activity
+
+‘When using trendlines, the detection of Terminal Impulse activity is
+very similar to that used in the detection of Triangular behavior. Figure 12-
+10, Diagram A, shows what usually happens when a Terminal is forming,
+Observe the break of the 2-4 trendline and notice how the market reacted
+to it. That is a perfect example of a "non-eventful” trendline break. Notice
+in this example which wave subdivided, not wave-(3), the extension, but
+wave-(5) which was the Terminal pattern, This is an example of the
+Independence (see Rule page 9-7) of the Subdivision Rule from the
+Extension Rule. The Extended (3)rd-wave is marked with an "x"; the
+subdivided (5)th-wave is marked with an
+
+During the formation of a Terminal patter, part of it will usually break
+the larger 2-4 trendline, To get only the structure of a Terminal pattem
+without the early warning of a temporary 2-4 break is rare, but not
+impossible (see Figure B, 12-10)
+
+Important: The Wave Theory does allow you to speculate when a
+particular formation (trend) has completed, but the necessary reaction to
+that formation is quintessential in the verification of your assumptions. In
+Figure 12-10, the action after wave-(5) must return to the low of wave-(4)
+to confirm the analysis; if that does not happen, the interpretation is wrong.
+Note: In Figure 12-10, wave-4) is the minimum target for the drop, 99%
+of the time it would return to the beginning of wave-(I) or lower.
+
+Real 2-4 Trendline
+
+‘When the Sth-wave of an Impulse pattern has completed, a correctly
+drawn 2-4 trendline must be broken shortly afterward, "Shortly" is a
+‘market defined relative term. To ascertain what relative means to a wave
+pattern you need to check the time consumed by the 5th wave. If the break
+from the termination of the Sth wave to the 2-4 trendline takes an equal
+amount of time or less than that consumed by waveS, the break adheres to
+normal behavior thereby confirming wave-S's conclusion. If the break
+takes more time than wave-5, you must assume wave-5 is developing into
+a Terminal pattern or the 2-4 trendline is incorrectly drawn and wave-4 is
+not finished. Maybe your entire interpretation is incorrect. Whatever the
+circumstances, the market has not completed an Impulse sequence (Figure
+
+000423

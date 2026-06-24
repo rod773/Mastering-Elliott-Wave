@@ -1,0 +1,6 @@
+Review
+
+For two (or more) pattern to be combinable, they must be of the same
+Degree. Anytime an Eliott pattem is assembled, it is automatically
+implied each segment is of the same Degree (but not necessarily of the
+same Complexity). For two waves to be of the same Degree, it is

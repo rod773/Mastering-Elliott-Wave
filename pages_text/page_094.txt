@@ -1,0 +1,41 @@
+Retracement Rules
+
+WARNING: This section is_not intended to be read straight
+through. If this is your first reading, skim through to grasp the
+general ideas, but do not spend much time on the details. The next
+time you read this section, have your own chart handy and ready for
+analysis.
+
+‘Once you have finalized the terminal points ofall monowaves on your
+chart, you are ready to identify the specific Retracement Rule which
+accurately describes the behavior of surrounding monowaves. [NOTE:
+Your chart should never be so complicated that this process involves the
+identification of more than 20 monowaves at any one time. For the best
+results (and the maintenance of your sanity), itis recommended you apply
+the Rules in Chapter 3 to just a few monowaves of real-time action each
+day.)
+
+To begin this process, pick the earliest monowave on your chart which
+you wish to analyze, That monowave, as described earlier, should mentally
+bbe considered m1 (monowave-1). Applying the Rules of Observation
+discussed earlier (see page 3-14), measure the retracement of m1 by m2 in
+percentage terms using the terminal points (dots) of each. ‘These
+measurements can be made accurately and swiftly with the aid of a
+proportional divider set to a 61.8% ratio. Proportional dividers are
+available from most engineering supply stores and are_highly
+recommended for the purposes of this section. If you are performing this
+procedure more precisely (and tediously) with the aid of an electronic
+calculator, measure the vertical price coverage of m2 and divide it by the
+vertical price coverage of m1. Multiply the result by 100. The number
+remaining is the relationship of m2 to mi in percentage terms.
+
+Refer to the table at the top of the next page (titled RULE
+IDENTIFICATION); in that listing, locate the relationship just calculated.
+That listing provides you with a Rule Identifier which represents particular
+characteristics of current market behavior. Next, move forward to the
+heading which matches your findings (i.e, Rule 1, Rule 2, etc). Further
+Clarification of the market environment is obtained by calculating the
+mO/m1 ratio. Measure the price coverage of m0, divide it by mi’s price
+coverage and multiply the result by 100. Locate that percentage
+
+ovoos2

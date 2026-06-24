@@ -1,0 +1,33 @@
+Rule 2 (m2 is at teast 38.2%, but less than 61.8% of m1)
+
+If m2 retraces at least 38.2%, but less than 61.8% of m1, Rule 2 takes
+effect (see Figure 3-24). Next, observe the relation of m0 to m1 to decide
+which alphabetic Condition Identifier applies. Place that letter to the right
+of Rule 2
+
+Figure 3-24
+
+Conditions for Rule 2
+
+Condition “a” -- If m0 is less than.38,2% of mi, m1 falls under the
+jurisdiction of Rule 2a (progress to Rule 2,
+Condition "a" of the Pre-Constructive Rules of
+Logic*),
+
+If m0 is at least 38.2%. hutless than 61.8% of m1, the
+properties of Rule 2b take effect (move to Rule 2,
+Condition "b" of the Pre-Constructive Rules of
+Logic*).
+
+is atleast 61.8%, hut less than 100% of m1,
+Rule 2c must be applied (advance to Rule 2,
+Condition "c” of the Pre-Constructive Rules of
+Logic").
+
+If m0 is between 100% and 161.8% of mi (inclusive),
+Rule 2d should be considered (jump to Rule 2,
+
+Condition
+
+Condition "c" -
+

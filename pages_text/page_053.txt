@@ -1,0 +1,41 @@
+and below the previous day's high and low. This creates a dilemma. Proper
+analysis requires you know which of the two (the high or the low) came
+first to make a decision on whether price action is continuing as it should
+or deviating from the assumed path, indicating changes in opinion are
+necessary. Therefore, bar charts should be avoided when employing Elliot
+Wave Theory. Reasons for this will become clearer as you progress
+through the book.
+
+Futures Charts
+
+Futures charts present a unique problem to the application of the Wave
+‘Theory. They contain an element of “deterioration.” When dealing with
+distant Futures contracts in most commodities, the Cash market trades well
+below the Futures price. As expiration of the Futures contract draws near,
+the Futures price will approach the cash and, for most markets, will be
+equal at expiration. Occasionally, supply and demand factors in some of
+the agricultural commodities can create severe imbalances which prevent
+the Futures from equaling the cash at expiration, As carrying charges and
+other costs are subtracted from the Futures contract on a daily basis, a
+Continuous and gradual price erosion occurs during the life of the contrac.
+
+‘Over a period of time, the inherent price distortion in a Futures market
+can wreak havoc with longterm wave analysis. In addition, some Futures
+‘markets (due to limited public participation) are susceptible to intentional
+or accidental manipulation by "strong hands" (well capitalized individuals
+Cr groups). Again, this can create great difficulty in deciphering an Elliot
+Wave pattem.
+
+Cash Data (the proper data for the creation of wave charts)
+
+Manipulation of a true cash market is far more difficult than a Futures
+‘market and requires much more capital (due to a lack of leverage) and time
+to initiate. Therefore, the return on investment is less when attempting to
+‘manipulate a Cash market. Additionally, a Cash position is not as liquid as
+a Futures position. The result, manipulation of a Cash market is seldom
+attempted or successful
+
+‘The Wave Theory requires a large degree of public involvement
+(which generally precludes or greatly hinders any manipulation potential)
+
+ovo0a

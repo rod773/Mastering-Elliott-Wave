@@ -1,0 +1,41 @@
+Complexity Rule
+
+This Rule, another tool developed by the author, provides a standard
+for the categorization of subdivisions within a pattern. It assists
+combining large scale patterns and in deciding the relativeDegree Title of
+a segment. As patterns get larger and more time consuming, it can be
+dificult to know which pattems can and cannot be combined with others
+to form larger ones (a function of Degree). Basically, all analysis begins
+with the combining of monowaves into polywaves, those poly waves into
+multiwaves, etc. As you progress, each pattern (visually and structurally)
+gets more difficult to manage if you do not keep track of the Complexity
+level of each patter, before and after Compaction.
+
+‘Complexity is not an important concept to understand when you are
+just beginning your studies of the Elliott Wave Theory, but it will become
+increasingly important as you begin to chart and keep track of long-term
+wave patterns, Complexity identification plays an important role in the
+detection of large scale pattems of the same Degree. Generally, patterns
+only of the same or of an adjacent Complexity Level can be considered the
+same Degree (Degree is explained in greater detail later in this Chapter).
+
+In the early stages of market development, the Complexity Level of a
+pattern is relatively easy to ascertain. It is a direct product of the number of
+subdivisions visible in a price move. A single monowave has a Complexity
+Level of "0" (See Figure 7-3). Arranging three or five monowaves into a
+polywave constitutes the development of a pattern from its base level of
+Complexity to Level-1 (see Figure 7-5a). Level-2 is the point where one of
+the Trending patterns in a polywave noticeably divides into a smaller
+Impulse sequence, turning the polywave into a multiwave.
+
+‘The detection of Complexity Level-3 (and higher) patterns is not quite
+so obvious. A larger pattern’s Complexity Level is almost solely dependent
+upon the Complexity of smaller Impulse segments within the pattern, The
+‘Complexity identification” techniques will keep you on track when
+attempting to combine patterns of extended price and time characteristics.
+For example, you cannot expect the straight line in Figure 7-4a (below
+left) to be of the same degree as the pattern in Figure 7-4 (below right).
+‘That is, of course, an obvious example. When a pattern covers several
+‘months or several years, the Complexity Level can be very difficult to
+
+ovo2se

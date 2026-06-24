@@ -1,0 +1,55 @@
+Essential Construction Rules
+
+Market action must adhere to the following rules to be considered a
+candidate for Impulsive behavior:
+
+1, Five adjacent segments must be present (monowave or larger),
+
+which meet the Structure Series requirements of a Trending or
+
+‘Terminal pattern.
+
+Three of those five segments must "thrust" in the same upward
+
+or downward direction.
+
+3. Immediately after the first segment, a minor move in the
+
+‘opposite direction takes place (the second segment). This second
+
+segment can never retrace all of the first.
+
+‘The third segment must be longer than the second.
+
+5. Immediately after the third segment, a minor move in the
+opposite direction of the third (but the same direction as the
+
+second) takes place (segment four). The fourth segment must
+
+never retrace all of the third.
+
+The fifth segment will almost always be longer than the fourth,
+
+but only hasto be 38.2% of the fourth segment (price wise).
+
+When the fifth segment is shorter than the fourth, the fifth
+
+segment is termed a "fail
+
+7. When the vertical price distances covered by the first, third, and
+fifth segments are measured and compared, the third does not
+have to be the longest, but it can never be the shortest of the
+three segments.
+
+6.
+
+Ifa single one of the above rules is not adhered to, the market action
+being analyzed, by default, must be Corrective in nature, not Impulsive
+OR your wave group is incorrectly combined. If the pattern you ate
+analyzing does not follow the above criteria, proceed to the Correction
+section (page 5-16).
+
+Application to market action
+‘We now have some general, broad application rules at our disposal for
+
+000176

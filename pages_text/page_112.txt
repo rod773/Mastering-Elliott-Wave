@@ -1,0 +1,43 @@
+learning curve by providing you with expert counseling on Wave analysis
+until you become proficient at the process. Furthermore, applying the Pre-
+Constructive Rules of Logic is a great way to learn of the numerous
+observations and measurements required to properly dissect market action.
+
+tis not recommended you begin your analytical "baptism of fire” by
+constructing a highly detailed chart and attempting to analyze every wave.
+Construct a short-term chart and begin with the current day, applying the
+rules one wave at a time and updating your chart and analysis regularly
+with daily data. This approach will allow careful consideration of each
+Rule as it applies to specific situations. Applying the Pre-Constructive
+Rules of Logic in this fashion should minimize the tedium of repetitious
+application and the chances of analytical error possible when dealing with
+stich extensive relational calculations.
+
+WARNING: This section should NOT be read straight through.
+‘The instructions which follow will only make sense, and be useful,
+when applied in conjunction with real-time market action. If you
+currently do not have a chart to analyze or this is your first time
+reading this section, scan through it then proceed to and scan the
+"Implementation of Position Indicators” (page 3-60).
+
+Transformation of Rule Identifiers
+
+‘The reliable application of Structure labels to replace Rule Identifiers
+usually requires the study of price action before and after ml. If m1 is the
+first monowave on your chart, there is no previous market action to help
+you indirectly decide on the intemal Structure of m1. Therefore, simply
+place the entire Structure list, which appears immediately to the right of
+each new Rule section, atthe end of ths first monowave. For example, to
+the right of Rule 1 (tum page to see listing) appears the Structure list
+{:5/(c3/(x:c3)['SL3V('s5]}. If m1 is the first wave on your chart, place
+that entite list at the end of m1.
+
+Warning: Do not apply these Rules to Compacted patterns which
+exceed their own beginning; retain only the pattern’s base Structure.
+Refer to the top of page 3-68 for a full discussion of this concept.
+Figure 3-36 on the same page illustrates this behavior. If conditions on
+your chart are not anticipated under the appropriate Rule section, please
+verify you are working with the correct Rule and then make sure you
+reread the conditions necessary to activate that Rule. If m1 is a monowave
+
+000100

@@ -1,0 +1,38 @@
+Zigzag "DETOUR" Test
+
+Whenever you find an ":L5" which concludes a possible Zigzag
+pattern, always be aware that the Zigzag could really be the last three
+segments of an Impulse pattern, For example, in Figure 4-7 after the first
+":F3" (moving forward from the low marked "Important Low") a ":5 :F3
+15" Zigzag Series can be found. In isolation, the waves make a legitimate
+Zigzag pattern. On the other hand, if you connect market action preceding
+the first leg of the Zigzag, an Impulsive Series can be created beginning at
+the "Important Low.”
+
+Whenever you are working with Zigzags, always check the two
+Structure labels preceding to assure no Impulsive pattern is accidentally
+overlooked. If an Impulse Series can be assembled by connecting two
+previous Structure labels to the Structure Series (see Figure 4-9), always
+test the Impulsive pattern (applying the guidelines described in Chapters 5-
+12) before attempting to work with the Zigzag. If the Impulse pattern
+obeys typical construction Rules, use it. Ifthe Impulse does not adhere to
+all the Rules, drop the first two Structure labels, return to the Zigzag
+scenario and test it for reliable construction. If the Zigzag is well
+constructed, use it. Ifthe Zigzag does not obey the Rules, skip that section
+of the chart and work on another area until surrounding action clarifies the
+situation,
+
+Figure 4-9
+
+Zigaag Series at the end
+(of an Impulse patern
+
+Ist_2nd_3ed_th_ Sth | Whenever woking wih gras, guarane an npc
+rue spt vetoed. ake surete wo Sete abel
+Peatictions | Ma ngcntte dma se inte
+
+tem an imple Seriessprese proper esting
+5 = FS 5 = FB LS) panemmustecurtefor considering te Zipegpossbiy
+peas Tmpancparem —”} ‘ibe lmple eats invades ote apap sear,
+
+000170

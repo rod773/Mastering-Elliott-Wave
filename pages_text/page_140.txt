@@ -1,0 +1,46 @@
+Rules (:F3/:c3/:5/L5(-L3))
+Condition "a" -- m0 is less than 100% of m1
+‘**(if m2 is composed of more than three monowaves [or
+‘monowave groups!)
+
+If the first three monowaves of m2 do not retrace more than 61.8% of
+ml, a Complex Correction may be unfolding with the first or second
+monowave (immediately after the end of m1) moving in the opposite
+direction of mt representing an x-wave OR m1 contains a “missing” x-
+wave or "missing b-wave in its Center OR ml is the 3rd-wave of an Sth-
+Failure Impulse patter (Trending or Terminal); place ":5/:s5" atthe end of
+ml. Add *:F3" to the end of mt if m1 is retraced at least 25% by the first 3
+monowaves. NOTE: if the "missing" x-wave is used, circle the center of
+ml and place "5 2" to the left ofthe circle and "x:c3 2" to the right of the
+Circle. If the "missing" b-wave is used, circle the center of m1 and place
+":5 2" to the left ofthe circle and "b:F3 2" to the right of the circle. Ifthe b-
+wave is used, the termination of the Complex Correction will be confirmed
+immediately before the point where the market violently tums
+‘opposite direction of m1) and exceeds the 61.8% retracement level of m1.
+
+If the first three monowaves of m2 retrace more than 61.8% of ml, m1
+may have completed wavea of a Flat with a complex b-wave OR ml may
+have completed wave-3 of a Sth Failure Impulse pattern; place ":F3/:5" at
+the end of m1 to show these two possibilities respectively.
+
+‘**(if m2 is composed of three monowaves [or monowave
+groups] or less)
+
+If m1 (plus one time unit) is completely retraced in the same amount of
+time (or less) that it took to form and m(-2) and m0 donot share any
+similar price teritory and m2 is larger than m(-2) and m(-2) and m0 are
+obviously different in price or time or both and when the price lengths of
+mC3), m(-1) and m1 are compared, m(-1) is not the shortest, a Trending
+Impulse pattern may have concluded with m1; place ":L5" at the end of
+mL
+
+I m1 (plus one time unit) is completely retraced in the same amount of
+time (or less) that it took to form and m2 is longer than m(-2) and m(-4) is
+ger than m(-3), a Zigzag or Flat may have concluded with ml; place
+"rL5" atthe end of m1.
+
+If mt (plus one time unit) is completely retraced in the same amount of
+time (or less) that it took to form and m2 is longer than m(-2) and m(-3) is
+longer than m(-2) and m(-4) is shorter than m(-3), m1 may be the end of a
+
+ovo1z8

@@ -1,0 +1,47 @@
+around ":sL3" to show that, though it is possible, itis not the preferred
+choice. If m(-1) falls between 61.8-161.8% of m0, drop ":c3" from the list
+If m4 is less than 61.8% of m0, place parentheses around ":5" to indicate
+its lower probability.
+
+If m3 is atleast 100. but less than 161.8% of m2, m1 is probably the
+first leg of a Zigzag, but it may be in a Triangle; place ":5(:c3){:F3]" at
+the end of ml. If m4 is larger than m3, drop "(c3)" and "[:F3)" from the
+list of possibilities. If m4 is shorter than m3 and m5 retraces m4 faster
+than m4 took to form and m5 is equal to (or longer) and more vertical than
+ml, drop "5" from the list.
+
+Condition "e" — if m0 is between 161.8% and261.8% of m1
+(inclusive)
+
+I m3 is more than 261.8% of m2, mI may be the fist leg of a Zigzag,
+the center section of a C-Failure Flat which concludes a Complex
+Correction (with a "missing" x-wave in the midale of m0) or the secondo-
+last leg of a Triangle; place ":5/:c3/(-sL3)" at the end of m1. If m(-1) is
+less than 61.8% oF more than 161.8% of m0, drop "(sL3)" from the
+Structure list. If m2 is retraced slower than it took to form, drop "(sL3)"
+and ":c3" from the list. If m3 is more than 161.8% of ml, drop ":5" from
+the list.
+
+I m3 is between 161.8 and 261,8% (inclusive) of m2, ml may be the
+first leg of a Zigzag or the center section of a C-Failure Flat which
+concludes a Complex Correction (with a “missing” x-wave in the middle
+(of m0; place "5/:e3" at the end of ml and put a dot in the middle of m0
+with "x:c32" to the right and ":s52" to the left ofthe dot. If m2 is retraced
+slower than it took to form, drop ":c3” from the list If m3 is more than
+161.8% of ml, drop 5" from the list.
+
+I m3 is atleast 100, but less than 161,8% of m2, m1 may be the first
+leg of a Zigzag or the first leg of a Triangle; place "5(-F3)" atthe end of
+ml. If m4 is a monowave and m4 is longer than m3, drop "(3)" from the
+Structure lis.
+
+Condition "f" — if m0 is more than 261.8% of mt
+
+If m3 is more than 261.8% of m2, m1 may be the first leg of a Zigzag
+or the center section of a CFailure Flat which concludes a Complex
+Correction (with a "missing" x-wave in the middle of m0); place "5i(:¢3)"
+atthe end of ml. If m2 is retraced slower than it took to form, drop ":c3"
+from the list. If m3 is more than 161.8% of mi, drop "5" from the list. If
+the "(c3)" Structure label is used for m1 and m(-1) shares no similar price
+
+000117

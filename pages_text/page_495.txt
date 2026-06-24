@@ -1,0 +1,31 @@
+Figure 12-53
+
+ncorect,
+Interpretation
+
+correct
+Interpretation
+
+Ast Wave Extension
+
+‘When a wave is missing from an Impulse pattern, the resultant price
+action will almost always look like a Zigzag correction. This makes
+Impulsions the hardest to detect, especially before they are complete.
+
+‘When the first wave extends, the 2-wave should almost always be the
+‘most complex and time-consuming pattern. Over short periods of time,
+when the number of data points comprising the polywave is in the range of
+“missing wave" susceptibility, the 4th wave may not be visible, creating
+what looks like a Zigzag with a c-wave equal to or shorter than wave-a
+(Figure 12-54). It cannot be proven this pattern is missing a wave until
+after itis completed.
+
+5th Wave Extension
+
+When the Sth wave extends, the 2nd wave, being the smallest
+correction, will be the first pattern to disappear during a contraction of the
+time element, A Sth wave extension with a missing 2nd wave will look
+like a Zigzag with a c-wave which is equal to or longer than wave-a
+(Figure 12-55).
+
+ovoass

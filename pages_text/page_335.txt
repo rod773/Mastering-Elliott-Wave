@@ -1,0 +1,13 @@
+Basic Neely Extensions
+‘Trendline Touch Points
+Time Rule
+Independent Rule
+Simultaneous Occurrence
+Exception Rule
+Aspect-1
+Aspect-2
+Necessity of Maintaining "Structure" Integrity
+Locking in Structure
+Flexibility of "Progress" labels (expansion of a
+pattern)
+

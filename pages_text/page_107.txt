@@ -1,0 +1,33 @@
+the Pre-Constructive Rules of Logic").
+Condition "b” -- if m0 is atleast 100%, but less than 161.8% of m1,
+then the properties of Rule 6b take effect (move to
+Rule 6, Condition "b" of the Pre-Constructive Rules
+of Logic")
+
+f m0 is between 161.8% and 261.8% of m1
+(inclusive), Rule 6c must be applied (advance to
+Rule 6, Condition “c” of the Pre-Constru
+of Logic*).
+
+If m0 ismore than 261.8% of m1, then Rule 6d is
+activated; make note of that at the end of m1 Gump
+to Rule 6, Condition "A" of the Pre-Constructive
+Rules of Logic*)
+
+Condition
+
+ive Rules
+
+Condition
+
+Rule Z (m2 is more than 261.8% of m1)
+
+For Rule 7 to be activated, m1 must be retraced more than 261.8% by
+‘m2 (Figure 3-30). Next, measure the relationship of m0 to mi, studying
+the table on the next page, you can decide the “Condition” of current
+‘market action (also, see Figure 3-30 on the next page).
+
+Figure 3-30
+
+Conditions for Rule 7
+Condition “a” - If m0 is less than 100% of ml, Rule 7a should be

@@ -1,0 +1,11 @@
+1 call a ‘severe’ failure. This can happen in three general ways. The b-wave
+retraces most of wave-a (up to, but not exceeding, 100% [see Diagram A
+of Figure 12-34)). The b-wave retraced wave-a in the area of 81%
+(Diagram B), The b-wave must retrace at least 61.8% of wave-a for this
+‘severe’ failure to still be possible (Diagram C). Of the three, Diagram A is
+the most common; Diagram B is next in line and Diagram C is very
+unlikely,
+
+Figure 12-30
+
+0004s?

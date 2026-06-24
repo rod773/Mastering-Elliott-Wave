@@ -1,0 +1,16 @@
+Logic*).
+Condition “a” -- If m0 is atleast 100% but less than 161.8% of mt,
+then Rule 3d should be considered (jump to Rule 3,
+Condition "A" of the Pre-Constructive Rules of
+Logic’).
+i m0 is between 161,8% and 261.8% of mt
+(inclusive), Rule 3e is appropriate (proceed to Rule
+3, Condition “e" of the Pre-Constructive Rules of
+Logic*).
+Condition "f” ~ If m0 is more than 261,8% of m1, Rule 3f exers its
+influence (proceed to Rule 3, Condition "f" of the
+Pre-Constructive Rules of Logic*).
+
+Condition "e
+
+ovooss

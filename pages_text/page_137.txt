@@ -1,0 +1,40 @@
+Condition "a" (:3/(:3
+
+Categories "i" &
+)
+
+If m2 (plus one time unit) is completely retraced in the same amount of
+time (or less) that it ook to form and m3 is not retraced more than 61.8%
+and m3 (or m3 through mS) consumed 161.8% (or more) of m1 in price
+within the same amount of time (or less) as m1, ml may be part of a
+complex correction in which m0 contains a "missing" x-wave toward its
+center; place ":F3/:c3|" at the end of m1 and mark (with a pencil) the
+Center of m0 with a circle and place "x:c32" tothe right of it,
+left of it and ":F32" at the end of m0. All of the labels with question marks
+are interdependent; if one is used all must be used, if one is not used, none
+of them can be used
+
+If m2 is completely retraced slower than it took to form, a Flat or
+Triangle is probably involved; place ":F3/:c3" at the end of ml. Ifthe end
+cof ml is exceeded during the formation of m2, add an "x" in front of "3."
+
+I m3 (plus one time unit) is completely retraced in the same amount of
+time (or less) that it took to form, ":F3" is the only reasonable choice for
+mL.
+
+If m3 is retraced at least 61.8%, but less than 100%, "-F3" is the only
+reasonable choice for m
+
+If m3 is retraced less than 61.8%, place ":F3" at the end of m1. If mS is
+not the longest when compared with m1 and m3 and m5 (plus one time
+unit) is completely retraced in the same amount of time (or less) that it
+took to form, m1 may be part of a Terminal pattern. If m5 is longer than
+ml and m3, mi may be part of a Complex Double Flat pattern in which
+md is an x-wave. Make note of these possibilities. Under both conditions
+listed in this paragraph, m1 would be marked with an ":F3."
+
+Category “iti” — if m3 is more than 261.8% of m2
+
+(x13)
+— if m3 is between 100% and 161.8% of
+

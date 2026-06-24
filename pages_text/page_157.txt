@@ -1,0 +1,46 @@
+Structure label (such as :c3, :sL3, 15, etc.) may be needed to create
+Complex Elliot’ Corrections. This is another reason to retain base
+Structure labels on a compacted wave group even after positioned
+Structure labels have been assigned tothe pattern,
+
+Position Indicator Definitions and Sequences
+
+‘This Structure label is the abbreviation for "First three3)." An "-F3
+either starts a series, occurs after an "x:c3" or is found between two ":5's'
+(all variations) If you find two "3s" next to each ther, a new patter (of
+a smaller magnitude) begins with the second ":F3." Circle the start of both
+3835" but do not attempt to connect the two until the second "sF3" can
+become part of a poly wave patter using waves which proceed it (a
+polywave is an Elliott pattem composed of three or more monowaves).
+Examples of where an "3" can be found under realtime conditions
+follow:
+
+1, 2-F3~c3-L5 (ctce stat of F3)
+
+2. 2-F3 3-3 (circle sar of F3)
+
+3. xic3 +4 FB ~ 3 - LS (cltcle star of F3)
+
+4, x:c3 ++ F3 - cB - 3 (cece start of F3)
+
+5. 5-3-5 ~ FB - LS (seconds at least 38.2% of frst 5)
+
+6. 5-F3-5 ++ xic3 (second 5 at least 38.2% of fst 5) 7.5F3 55 ++ XX3 (65
+mast be at least 38.2% of 5)
+
+8. 5~F3~L5 (LS must beat east 38.2% of 5)
+
+9. $5 - F3~L5 (L5 must be more than 100% of 5)
+
+‘This Structure label is the abbreviation for “center three(3).” A ":c3"
+can never start or end a sequence; as a result, a large violent move will
+virtually never occur after" :c3." If the first wave in a group contains more
+than one Structure label, and one of those happens to be a "3," you can
+eliminate it. IF tying to complete a three or five segment pattern and the
+last leg contains " :c3" as a possibilty, the "sc3" can be eliminated. If am
+sequence from 1 to 7 below is used, circle the beginning of the ":F3.
+Following are examples of where ":c3's" can be found under real-time
+circumstances and the conditions which must be present for their proper
+positioning:
+
+ooo14s

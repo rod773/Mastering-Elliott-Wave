@@ -1,0 +1,13 @@
+If your wave group has followed these three minimum parameters, itis
+time to check for adherence to the maximum limits imposed on wave-b of
+a Zigzag,
+
+1. No part of wave-b will normally retrace more than 61.8% of wave-a
+
+2. If part of wave-b retraces more than 61.8% of wave-a, that part will
+not be the end of wave-b. It will only be the first segment of a more
+complex correction for wave-b. The termination of wave-b will
+complete at 61.8% of wave-a or less (see Figure 5-24),
+
+Figure 5-24
+

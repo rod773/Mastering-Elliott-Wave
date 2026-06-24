@@ -1,0 +1,38 @@
+Pattern Implications
+
+Al Elliot patterns imply and transfer specific amounts of "Power" to
+future market action. In addition, many require particular post-pattemn
+behavior including the minimum price length the next pattern should
+achieve and the minimum time it should consume.
+
+The table below lists each Corrective pattern, along with its Power
+rating. Power ratings indicate whether strength or weakness is inferred by
+the pattern in question. Using a numerical scale from ~3 to +3, the lowest
+rating belongs to market action which is very detrimental to upside price
+potential. The +3 ranking is for patterns which are very beneficial to the
+Continuation of a market advance. To decide on the subtle "Power"
+differences between two corrections given the same rating, here is what
+you do. When the rating is positive, the Correction listed farthest away
+from neutral isthe stronger of the two. Ifthe rating is negative, the pattern
+farthest away from neutral will be the weaker correction,
+
+Retracement Based on Power Ratings
+
+Having an idea of the "power" of a correction is extremely important in
+the Logical integration process. It provides you with an accurate idea of
+whether a Correction will, should, might, should not or will not get
+completely retraced by the next move. Some corrections are so weak (or
+strong) they cannot terminate a move. Any formation which concludes
+upward and has a +1 to +3 rating should not be fully retraced by the next
+pattern (of the same Degree). Caveat: It has been the author's experience
+that the legs of Triangles and Terminals do not transfer implications to the
+next leg (there is always one exception t0 every formational Rule). This
+indicates if a Double Zigzag is an entire segment of a Triangle or
+Terminal it might be retraced completely by the next leg "of the same
+Degree." In addition, the next move may be simpler than the Double
+Zigzag. As a result ofthis phenomenon, an important Rule can be derived.
+If a pattern with a (+1, +2, +3)or(l, -2, -3) power rating is completely
+retraced by a pattern with a Power Rating closer to zero but which is till
+of the same Degree, the market is signaling a Triangle or Terminal pattern
+
+ovosea

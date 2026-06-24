@@ -1,0 +1,5 @@
+‘The possible Corrections which can occur in the X-wave position are
+listed below by their Structure Series:
+
+Table B
+

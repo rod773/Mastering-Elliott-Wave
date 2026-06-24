@@ -1,0 +1,40 @@
+b. Irregular
+
+‘The Irregular Triangle is characterized by the b-wave of the pattern,
+which must be longer (pricewise) than wave-a. After wave-b, all waves are
+continuously smaller until the Triangle is over.
+
+Wave-a
+
+With few exceptions, the a-wave should be smaller in time than the b-
+wave, The b-wave should not be more than 161.8% of wave-a (price-
+wise). Wave-c must move back into the price "zone" of wave-b enough so
+that the shorter e-wave can also finish in the price zone of wave-b. The a-
+wave can be any corrective pattern except a Triple Zigzag or an Elongated
+Flat. To avoid confusion, I will once again mention that wave a,b,c, or d of
+a Triangle can never, itself, be a Triangle. The e-wave is the only segment
+of a Triangle allowed to form into a smaller Triangle.
+
+Wave-b
+
+‘The b-wave must be longer than wave-a, It will probably not be much
+‘more than 161.8% of wave-a and mustnot be more than 261.8% of wave-
+a. If wave-a does not subdivide, the b-wave will most likely be a Zigzag. If
+wave-a subdivides into a Zigzag, then wave-b will probably be a Double
+
+‘igzag. If wave a was a Flat, wave-b will probably be a single Zigzag. The
+b-wave should not be more than 61.8% of the previous Impulse wave. The
+b-wave canbe any Flat or Zigzag pattern. It can be any Complex
+Correction such as a Double or Triple or a Combination.
+
+Wave-c
+
+‘Wave-c must be shorter than wave-b, but must retrace at least 38.2% of
+wave-b, The lowest point of wave-c will probably fall back into the price
+zone of wave-a. If wave-b was a Double Zigzag, wave-c should be a
+Zigzag or a Flat with an Elongated c-wave. If wave-b was a Zigzag, then
+‘wave-c will probably be a Flat (of any type) or a monowave.
+
+Wave-d
+
+00034

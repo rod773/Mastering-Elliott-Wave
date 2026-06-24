@@ -1,0 +1,50 @@
+Expanding Triangle; place ":F3/:c3/:L5" at the end of m1.
+
+If m1 is completely retraced slower than it took to form and m2 is
+smaller than m(-2), a Zigzag (which is part of a Contracting Triangle) may
+have concluded with m1; place ":L5" at the end of ml.
+
+If ml is completely retraced slower than it took to form and m(-1) is at
+least 61.8% of mi and m3 is smaller than m2 and m3 (plus one time unit)
+is completely retraced in the same amount of time (or less) that it took to
+form, m1 may be part of a Flat which concludes a larger pattern; place
+°":F3" atthe end of m1.
+
+If m3 is longer than m2 and ma is longer than m3 and m0 is less than
+61.8% of mi, m1 may have begun an Expanding Triangle; add "(-F3)" to
+the Structure list at the end of mi.
+
+If m3 is longer than m2 and m4 is longer than m3 and m0 is between
+61.8-100% of ml, the market may be forming an Expanding Triangle; add
+"Ge3)" to mi
+
+Condition "b” -- m0 is at least 100%, but less than 161.8% of mi
+
+If m3 is longer than m2 and m0 is closer to 100% than to 161.8% of
+‘ml, place "sc3” atthe end of mL, If m(-1) is longer than m0 and the ":c3"
+is used as the preferred Structure choice, add "b” in front of ":c3" to get
+'b:c3." This means that ml is the b-wave of a Flat correction. If m(-1) is
+less than m0, mi may be the x-wave of a Complex correction, add "x" in
+front of the ":c3" instead,
+
+If m3 is longer than m2 and m0 is closer to 161.8% of m1 than to
+100% of m1, place ":F3" at the end of m1. If m(-1) is longer than m0, m2
+is probably the end of a Zigzag. If m(-1) is shorter than m0, m1 may be an
+x-wave of a Complex Correction which ends with m4, To show these two
+possibilities respectively, add "b:c3" and "x:c3" to the Structure list at the
+end of mi
+
+I m3 is at least 61.8% of m1 and m3 completes without any part of it
+exceeding the end of m2 and m2 is close to 61.8% of m0. mi may be the
+first leg of an Iregular Failure Flat: add ":F3" to mls Structure list if iis
+not already present
+
+If m2 is retraced less than 100% and m3 is atleast 61.8% of m1 and
+1m3 completes without any part of it exceeding the end of m2, place ":F3"
+atthe end of ml.
+
+If m2 is retraced less than 61.8% and m1 and m3 share some of the
+same price range and m4 is no more than 261.8% of m2and m2 is not the
+shortest wave when compared with mO and m4 and m4 (plus one time
+
+000130

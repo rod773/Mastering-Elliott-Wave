@@ -1,0 +1,4 @@
+Application of the Time Rule
+
+If two adjacent patterns take equal amounts of time followed by a third
+segment which also takes the same amount of time, you can confidently

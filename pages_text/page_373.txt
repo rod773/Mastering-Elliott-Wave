@@ -1,0 +1,40 @@
+Contracting
+
+1. Limiting
+
+‘a. Horizontal
+Wave-a
+Wave-b
+Wave-c
+Wave-d
+Wave-e
+
+b. Irregular
+Wave-a
+Wave-b
+Wave-c
+Wave-d
+Wave-e
+
+Running
+Wave-a
+Wave-b
+Wave-c
+Wave-d
+Wave-e
+
+IL, Non-Limiting
+
+Wave-a
+
+Wave-e
+
+a. Horizontal
+
+b. Irregular
+
+. Running
+
+IL, Non-Limiting
+
+000362

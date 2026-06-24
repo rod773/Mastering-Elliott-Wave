@@ -1,0 +1,38 @@
+Combination is not very likely to occur in wave-b of this type of Triangle).
+Wave-b
+
+If wave-b is smaller in price than wave-a, then all the other pattems
+‘must be smaller than the previous segment (rom left to right) If wave-b is
+bigger than wave-a, the chances are very small (but do exist) that wave-c
+may be slightly larger than wave-b and still maintain the Contracting
+‘Triangle formation. Ifthe c-wave is larger than wave-b, itis mandatory
+that wave-d be smaller than wave-c or else you are entering the Expanding
+‘Triangle realm and should move to that section. In other words, in this
+type of Triangle, once one segment is smaller in price than the las, all the
+rest must be smaller than the previous. If this is not the case, then the
+market is not in a Contracting Horizontal Triangle. Maybe it is in some
+other type of Triangle. Note: Wave-b should not be less than 38.2% or
+more than 261,8% of wave-a. There may be exceptions to the foregoing
+guidelines, bu they are rare, so be careful about ignoring them.
+
+Wave-c
+
+‘Wavesc is the last wave that has a chance (in a Contracting Horizontal
+Limiting Triangle) tobe larger in price than the previous wave (wave-b).It
+rarely happens, but it is not impossible. If wave-c is the biggest price
+‘move, the trendline will be drawn across wave-c & e.
+
+Wave-d
+
+‘Wave-d must be shorter than wave-c. It should be at least 38.2% of
+wave-c. It may take more time than wave-c, but should not be of greater
+complexity level (the same complexity level or one lower level, only, is
+acceptable).
+
+Wave-e
+Wave-e must be shorter in price than wave-d. It can be shorter or
+
+longer in time than wave-d, but should not be the longest time Correction
+in the pattern,
+
+000393

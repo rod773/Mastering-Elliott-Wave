@@ -1,0 +1,5 @@
+Even though I am uncomfortable with this pattern, due to its extreme
+infrequency, its included here for completeness. From experience, tis is
+how a Double Extension should channel (see Figure 12-15).
+
+ovoazs

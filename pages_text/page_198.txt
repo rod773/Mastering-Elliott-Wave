@@ -1,0 +1,34 @@
+Rule of Equality
+
+In any Impulse pattern, as discussed under the Extension Rule, one of
+the waves must be significantly longer than any other wave. Once you
+have identified the longest wave, the Rule of Equality needs to be
+considered. This Rule applies to only two of the following three waves:
+1,3, & 5. Whichever wave extended in the pattern, the Rule refers to the
+other two. The combinations would be:
+
+1. If wave-1 extended, the rule applies to waves 3 & 5,
+
+2. If wave-3 extended, the rule applies to waves 1 & 5.
+
+3. If wave-5 extended, the rule applies to waves 1 & 3.
+
+‘The Rule of Equality states that the two unextended waves should tend
+toward equality in price and/or time OR relate by a Fibonacci ratio
+(usually 61.8%) under either parameter or both. Price is the far more
+important consideration when looking for equality of two waves. In
+addition, the Rule exerts the most influence in Impulse pattems when the
+3rd wave extends. The Rule is especially useful when the Sth wave fails
+after a 3rd wave extension. The rule is least useful when a pattern contains
+a Ist wave extension or is a Terminal Impulse.
+
+Refer back to Figure 5-3b for some examples of how this takes place.
+In Diagram D, wave-3 extended, so waves 1 & 5 are approximately equal
+in price and time, Diagram B shows a Ist wave extension, in which waves
+3 & 5 relate by 61.8% in price and 61.8% in time. In Diagram C, the Sth
+wave extended, so waves 1 & 3 relate to each other by 61.8% in price and
+100% in time.
+
+Overlap Rule
+
+‘The Overlap Rule can be applied in two different ways, depending on

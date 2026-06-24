@@ -1,0 +1,22 @@
+Standard Type
+
+‘The formation of a Standard Impulsive or Corrective Polywave is not
+normally composed strictly of three or five adjacent monowaves. Usually,
+one of the Corrective phases (but not any of the Impulsive phases) of the
+polywave will itself be a polywave (see Figure 8-1 on page 8-4) This
+allows for better Alteration between the two detached corrective phases
+of an Impulse pattern (ie., waves 2 and 4) or the two adjacent segments of
+Corrective patter (ie., waves A and B).
+
+‘When a Polywave contains one or more Corrective Polywaves, it is
+considered a Complex Polywave. For a pattem to remain a Complex
+Polywave, no segment labeled with a Structure of " :5" can subdivide. If
+‘one or more of the ":5's" in a pattern does subdivide into a Polywave, the
+pattern should be considered a Multiwave (refer to "Construction of
+Multiwaves,” page 3-16),
+
+‘Whether a Polywave is strictly composed of monowaves or one or two
+Comrective polywaves, all the same Construction Rules covered in the
+Central Considerations chapter apply.
+
+000278

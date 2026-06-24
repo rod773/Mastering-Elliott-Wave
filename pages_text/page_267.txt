@@ -1,0 +1,28 @@
+discover without implementing the techniques to follow. The next few
+pages describe how Complexity Level is arrived at on varying scales of
+market activity.
+
+Figure 7-4a
+
+Figure 7-4b
+
+m0 pans
+p=
+
+Monowaves
+
+‘The Complexity Level of a monowave is easy to determine. With no
+visible subdivisions, the Complexity Level of a monowave is always "0.
+When it comes to integrate monowaves in the Complexity evaluation
+process, assign all monowaves a mathematical value of "0."
+
+Figure 7-3
+
+<————— Complexity Level-0
+
+Polywaves
+
+Anytime a market completes an Elliott pattern which has visible
+subdivisions and conforms to all applicable rules, the Complexity Level
+
+000285

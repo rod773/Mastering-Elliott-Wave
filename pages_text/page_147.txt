@@ -1,0 +1,47 @@
+If m2 is retraced 61.8% or more by m3, place ":L5" at the end of m1.
+
+If m1 (plus one time unit) is completely retraced in the same amount of
+time (or less) that it took to form, a Trending Impulse pattern may have
+completed with m1; place ":L5" at the end of m1.
+
+If mt (plus one time unit) is completely retraced in the same amount of
+time (or less) that it took to form and m3 is shorter than m2 and m2 (or
+‘m2 through m4) approaches (or exceeds) the beginning of m(-3) within a
+time frame which is 50% (or less) of that taken by m(-3).through m1 and
+‘m0 and m(-2) share some of the same price territory, then m1 may have
+completed a Terminal Impulse patter; add "(-L3)" to the Structure list at
+the end of ml. If m3 is between 61.8-100% (exclusive) of m2 and ":L3" is
+used as the preferred Structure label, m2 is probably an x-wave OR the
+Terminal pattern which completed with ml is within a larger Triangle;
+place "x:c3?" atthe end of m2.
+
+If m1 is completely retraced slower than it took to form and m2 does
+not exceed the end of m(-2) and m(-1) is a least 61.8% of m1 and m(-2)
+is shorter than m(-1), m1 may be wave-a of a Flat pattern which concludes
+a Complex Correction and m0 is the x-wave of the pattern; place ":F3” at
+the end of m1 and "x:c3?" atthe end of m0.
+
+Condition "b” -- m0 is at least 100%, but less than 161.8% of mi
+
+‘**(if m3 is composed of more than three monowaves [or
+‘monowave groups!)
+
+If the first three monowaves of m3 donot retrace more than 61.8% of
+m2, a Complex Correction may be unfolding with the first or second
+monowave (immediately after the end of m2) moving in the opposite
+direction of m2 representing an x-wave OR m2 contains a "missing" in its
+center OR m2 is the 3rd-wave of a Sth-Failure Impulse pattern (Trending
+or Terminal); place ":5/:s5" at the end of m1. NOTE: for the "missing"
+wave scenario, circle the center of m2 and place ":5 2" to the left of the
+circle and ":F3/x:c32" to the right of the circle, the end of the Complex
+Correction will be confirmed complete when the market violently tums (in
+the opposite direction of m1) and exceeds the 61.8% retracement level of
+‘m2. The termination of the Complex Correction would be atthe beginning
+of the violent turn-around.
+
+If the first three monowaves of m3 retrace more than 61.8% of m2, m2
+may have completed wavea of a Flat with a complex b-wave OR mi may
+have completed wave-3 of a Sth Failure Impulse pattern; place ":F3/:5" at
+the end of m1 to show these two possibilities respectively.
+
+000135

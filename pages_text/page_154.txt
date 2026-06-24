@@ -1,0 +1,44 @@
+If m1 (plus one time unit) is completely retraced in the same amount of
+time (or less) that it took to form and m(-1) and mt are equal in price and
+time (or related by 61.8% in either case) and m2 is at least 161.8 % of mo
+and ml and m(-1) do not share any similar price range and m2 is_not
+retraced faster than it took to form, then m1 may have completed a
+Running Correction; place ":L5" at the end of ml. If m(-2) is less than
+161.8% of m0 and m2 is retraced less than 61.8% and the ":L5" is used,
+‘ml simultaneously terminates more than one Elliot pattern, each of
+consecutively larger degree.
+
+If m2 is retraced less than 61.8% and m2's price coverage is larger and
+‘more vertical than mO and m(-1) is no more than 161.8% of m0 and mi1)
+and ml share some of the same price range and at least one of m0's
+Structure possibilities contains a ":3" (any variation), there is a small
+chance ml completed a Contracting Triangle; place "(:L3)" at the end of
+ml. If m1) and m1 are equal (or related by 61.8%) in price or time or
+both and m(-1) and m1 share some of the same price range, m1 may have
+completed an Iregular or C-Failure Flat; place ":L5" atthe end of mi.
+
+If m2 is retraced less than 61.8% and m2's price coverage is between
+61.8% and 161.8% of m0 and m(-1) is shorter than m0 and m(-1) is not
+more than 161.8 % of m0, mL may be an "x-wave" of a Complex
+Corrective pattern; make note of that on the chart next to m1 and add
+"x3" to mis Structure is if it is not already present.
+
+If m2 (plus one time unit) is completely retraced in the same amount of
+time (or less) that it took to form and m3 is not retraced more than 61.8%
+and m(-1) is shorter than m0 andpartof m(-1) shares some of the same
+price range as m1 and m0, when compared to m(-2) and m2, is not the
+shortest of the three and m3, in a period of time 50% (or less) of that
+consumed m(-2) through m2, closely approaches (or exceeds) the
+beginning of m(-2), a Terminal pattem may have concluded with m2; add
+"sL3" to the Structure list atthe end of m1.
+
+Implementation of Position Indicators
+(Rules to reduce Structure lists toa single possibility)
+
+Position Indicators are the alphabetic companions ("c, F, L, $ or sL")
+which precede most Structure Labels (:3 and :5'5). Position Indicators do
+just what their name implies, they describe sometimes generally,
+
+1s specifically the position of a Structure Label within the context
+
+ovo1ez

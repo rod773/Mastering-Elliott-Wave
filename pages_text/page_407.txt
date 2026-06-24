@@ -1,0 +1,41 @@
+‘Wave-d must be shorter than wave-c. It may consume more time than
+wwave-c. It must retrace at least 38.2% of wave-c. The d-wave can be any
+Corrective pattern as long as it Alternates with wave-c.
+
+Wave-e
+
+‘The e-wave must be smaller than wave-d and the probabilities greatly
+favor that the e-wave will be the smallest wave (price wise) in the
+Triangle. It does not have to retrace the d-wave by any specific amount,
+but it must move in the opposite direction of the d-wave by at least one
+tick and must terminate inthe price zone of wave-d
+
+Unlike the other four segments in the Triangle (waves a,b,c), the e-
+wave can, itself, be a Triangle, but, e-wave Triangles are far more common
+at the end of Non-limiting Triangles than at the end of Limiting
+Triangles. The terminal point of the e-wave will probably fall at an
+important Fibonacci point to the pattern of one larger degree. Ifthe pattem
+of one larger degree is a Zigzag (which means the Triangle is a B-wave),
+then the e-wave terminus will probably be at 61.8% of the entire move
+from the start of the Zigzag to its end added to the start of the Zigzag, If
+the larger pattern is a Flat, the e-wave terminus will probably be at 61.8%
+of wave-a of the Flat. If the Triangle is the 4th wave of an Impulse pattern,
+the e-wave terminus will likely occur at 38.2% or 61.8% of the a-wave of
+the Triangle.
+
+c. Running
+
+‘The Running Triangle is detected from the b & d-wave action. Wave-
+b will be longer than wave-a and wave-d will be longer than wave-c. The
+thrust out ofthis type of Triangle will be more than normal. It should be at
+least 161.8 % of the widest segment of the Triangle, but should not exceed
+261.8 %. When this type of Triangle occurs, frequently it signals that the
+end of a significant advance or decline is about to take place. Ifthe thrust
+Cut of the Triangle were more than 200%, then you can be relatively sure
+that a significant top or bottom will take place.
+
+Wave-a
+
+\Wave-a should be no less than 38.2% of wave-b. Wave-a will probably
+
+000395

@@ -1,0 +1,47 @@
+of a Sth Extension Terminal Impulse pattern; place ":5/:s5/:c3" attheendof
+ml. If m(-l) is longer than m1, drop ":c3" from the list of possibilities. If
+‘mG1) is longer than m1 and the ":s5" is used for m1, m1 would be wave-c
+of a Zigzag within a Complex Correction; place "x:¢32" at the end of m2.
+If m4 is smaller than m3, drop ":5" from the Structure list. If m3 (plus one
+time unit) is completely retraced faster than it took to form, drop *:s5"
+from the Structure lis.
+
+If m3 is shorter than m1 and m3 (plus one time unit) is completely
+retraced faster than it took to form, a Complex Correction may have
+lace ":5" at the end of ml. If m4 returns to the
+beginning of m(-1) within a period of time equal 0 50% (or less) of that
+consumed by m(-1) through m3 and m(-1) is not more than 261.8% of ml,
+‘mI may be part of a Terminal Impulse pattern; add ":c3" to m1,
+
+If m3 is shorter than mi and m3 is completely retraced slower than it
+took to form, ml concludes a Zigzag which is part of a Complex
+Corrective pattern; place ":s5" atthe end of mi.
+
+If m3 is shorter than ml and m4 is shorter than m3, m1 may have
+completed a Zigzag which is part of a Complex Correction or is part of
+Terminal Impulse pattern; place ":s5/:F3" at the end of m1 to show these
+‘wo possibilities, respectively. If mS is longer than m3, drop ":F3" as a
+possible Structure abel.
+
+Condition "c" — if m0 is at least 61.8%, but less than 100% of m1
+
+If m3 is more than 261.8% of m1, m2 probably completed an Irregular
+Failure Flat or a Non-Limiting Triangle; place ":c3/:sL.3” at the end of ml.
+If mG) is more than 161.8% of m1, drop ":sL3” from the list of Structure
+possibilities. If m(-1) is not more than 161.8% of m1 and m(-2) is at least
+61.8% of m(-1), drop "sc3" from the Structure list.
+
+If m3 is between 161.8% and 261.8% (inclusive) of m1, m1 may be the
+center portion of an Irregular Failure Flat, the second-to-last leg of @
+Contracting Triangle or part of a Complex Correction; place
+"FBc3/sL3/s5" at the end of ml. If m3 (plus one time unit) is
+completely retraced faster than it took to form, drop ":s5" from the above
+list. I mG1) is more than 161.8% of m1, drop ":sL3" from the above list.
+If mC1) is not more than 161.8% of m1 and m(-1) is retraced at least
+61.8%, drop "sc3" from the above list. If ms is shorter than m3, drop ":F3"
+from thelist.
+
+If m3 is at least 100%, but Jess than 161.8% of m1, m1 may be the
+center portion of an Irregular Failure Flat, the second-to-last leg of a
+
+000125

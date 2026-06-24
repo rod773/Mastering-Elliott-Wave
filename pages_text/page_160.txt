@@ -1,0 +1,43 @@
+‘Complex formations it will almost always be positioned as the last "3" in
+the list.
+
+sL3"
+‘This Structure label is the abbreviation for "second to Last three(3)."
+‘An “:sL3" never begins or ends an Elliott Wave pattern, This is a
+Conditional Structure Label that cannot be present without its partner, the
+1L3" label. Whenever you contemplate using ":sL3" there must be an
+1L3" immediately afterward. This grouping of labels always indicates one
+of two Elliot pattems is forming; a Terminal or a Triangle, Therefore, the
+":sL3" (along with its partner the ":L3") must be one of five consecutive
+corrective (:3's) Structure labels with the ":sL3" the "second-to last” of the
+series. The following is the only position an *:sL3" can be found in during
+real-time circumstances:
+
+1, C3~SL3 - L3 -? (L3 should not be more than 61.8% of s13 OR it
+shouldbe more than 100% of s13)
+
+3
+
+‘This Structure label is the abbreviation for "Last three(3)." Unlike an
+sL3" (which must be proceeded by an ":L3"), an ":L3" label does not
+insist on a preceding ":sL3." If itis the smallest wave, an ":L3" requires its
+‘own price distance (plus one time unit) be completely retraced in the same
+amount of time or less that the ":L3" took to form. Similar to the ":sL3"
+label above, an ":L3" must be part of a Terminal or Triangle pattern and
+therefore requires a total of five " :3's" be found adjacent to one another
+with the 3 applying the Essential Impulse
+Construction Rules (Chapter 5, page 2) to the wave group, you will be able
+to decide whether the market is forming a Terminal or a Triangle. If the
+‘market action obeys the Rules found on page 5-2, a Terminal is forming; if
+it does not, a Triangle is unfolding. The following are examples of
+‘Structure labels which may surround an ":L3" under real-time conditions
+(NOTE: none of the ":c3's" in Structure list " [below] may have
+an "x" in front of them):
+
+1, F3~c3~c3~ 3-13 ~? (L3 must be larger than second OR larger
+than third 3, circle end of L3)
+
+2. F3~c3~ C3 sL3 - LB ~? (L3 must be the smallest wave, it must be
+violently retraced; circle end of L3)
+
+ovo1es

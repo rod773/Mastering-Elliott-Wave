@@ -1,0 +1,48 @@
+an Expanding Triangle is forming; place ":c3" at the end of m1.
+
+If m2 (plus one time unit) is completely retraced in the same amount of
+time (or less) that it took to form and m(-1) is shorter than mO and m0,
+‘when compared to m(-2) and m2, is not the shortest of the three and m(-1)
+and m1 share some of the same price range and the market approaches (or
+exceeds) the beginning of m(-2) in a period of time which is half (or less)
+of that consumed by m(-2) through m2, add "(sL3)" to the Structure list
+(indicating the possibility of a Terminal pattern completing with m2),
+
+If m2 is retraced less than 61.8% and mi and m3 share some of the
+same price range and m4 is shorter than m2 and me (plus one time unit) is
+completely retraced faster than it took to form with the market
+approaching (or exceeding) the beginning of mo in a period of time which
+{is 50% (or less) of that taken to form m0 through m4, then the market
+possibly completed a Terminal patter at m4; place ":c3" at the end of ml.
+
+If mt (plus one time unit) is completely retraced in the same amount of
+time (or less) that it took to form and m2 is close to 161.8% of m1 and m2
+is retraced less than 61.8% and m(-1) is at least 61.8% of m0 and m(-2) is
+between 61.8-161.8% of m(-1) and m(-3) is between 61.8-161.8% of
+m(-2) and the combined price coverage of m2 through m4 is longer than
+m0, m1 may have completed a Contracting Triangle; add ":L3" to any
+existing Structure list.
+
+I m1 (plus one time unit) is completely retraced in the same amount of
+time (or less) that it took to form and m1 is very close to 61.8% of m0, but
+m1 is no more than 161.8% of m(-1) and m2 is very close to 161.8% of
+ml and m2 is retraced less than 61.8% and the combined price coverage
+of m2 thtough_md is longer than m0, m1 may have completed a Flat
+pattern; add ":L5" to any existing Structure list.
+
+If no Structure label has been placed for m1 during this section, place
+"83" atthe end of mi.
+
+Condition "d"~- m0 is more than 261,8% of mi
+
+If m2 is composed of more than three monowaves, place ":F3” at the
+end of mi.
+
+If m2 (plus one time unit) is completely retraced in the same amount of
+time (or less) that it took to form and m(-2) is shorter than m0 and after
+m2, the market approaches (or exceeds) the beginning of m(-2) within
+50% (or less) of the time taken to form m(-2) through m2; add "(sL3)" to
+the Structure list (indicating the outside possibility of a 3rd Extensi
+‘Terminal pattern completing with m2).
+
+000132

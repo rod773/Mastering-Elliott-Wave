@@ -1,0 +1,33 @@
+If the d-wave “fails,” the pattern will have a slightly skewed upward or
+downward appearance; also, waves-a & e will probably relate by 261.8%.
+
+[For diagrams of all the above Expanding Triangles, see Chapter 5, page
+32.)
+
+I, Non-Limiting
+
+ing Expanding Triangles should basically follow the
+nal parameters of the Limiting Expanding Triangle.
+‘There are only a few differences which need to be covered:
+
+1, The chances are good in a Non-Limiting Triangle that no
+Fibonacci relationships will be present between the various
+segments. If there is a relationship, it will probably be between
+wave-a & e. Wave-e would be 261.8% of wave-a.
+
+2. The apex point of the Expanding Non-Limiting Triangle (which
+‘occurs backwards in time and can only be detected after the
+‘Triangle is complete) should be much closer tothe start of the Non-
+Limiting than of the Limiting Triangle. Listed below are the
+calculations that need to be preformed to test for Non-Limiting
+status:
+
+a, Measure the entire time duration of the Expanding Triangle
+from the beginning of wave-a to the end of wave-e. Calculate
+20% of that amount.
+
+b. Add that time amount to the a-wave (going backward in time).
+If the apex point falls within that time zone (between 20% and
+the start of wave-a), the Triangle is Non-Limiting.
+
+000410

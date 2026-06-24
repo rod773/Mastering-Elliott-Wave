@@ -1,0 +1,32 @@
+Figure 7-6b
+
+| | Complete
+| | Impatsive
+polywave
+
+! | within the
+| | Corrective
+| Multiwave
+loa _
+
+|
+
+c
+ee
+Corrective Multiwave
+Complexity Level-2
+
+Referring to Figure 7-6c, this is how Complexity of that pattern would
+be decided. First, observe if the pattern subdivides or not. It does, therefore
+it automatically qualifies for the minimum Complexity rating of Level-t
+‘Next, examine each individual Impulse segment and note the Complexity
+Level of each. Out of the three Impulse patterns of the same Degree,
+choose the one with the highest Complexity rating. The most complex
+segment in this pattern is the middle advance (wave-3), which is Level-1
+Complexity. Add "1" to the automatic Level-1 and you get Level-2. That is
+the Complexity of the diagram in Figure 7-6c. Figure 7-6d describes the
+Complexity delineation process for a Corrective Multiwave.
+
+Figure 7-6c
+
+000260

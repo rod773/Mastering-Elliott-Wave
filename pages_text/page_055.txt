@@ -1,0 +1,43 @@
+As an analyst, trader or investor, you will need to decide which time
+frame is best suited to your needs. If you decide one figure a day is all you
+would like to deal with, you are also deciding the type of move you are
+interested in is one that lasts several weeks to a few months. You will not
+be able to day-trade following only one figure per day, obviously. To
+arrive at one figure per day for a continuously traded cash market, add the
+extreme (real) high and low together and divide by two (2). Plot as
+described in "How Do You Plot Data,” which immediately follows. If you
+want a little more daily detail by using two figures a day, there are two
+choices. You can divide the day in two equal parts and take the average of
+the high and low for each session or you can use the high and low for the
+entire day and plot them in the order they occurred (this last approach is
+the best). That is, ifthe high of the day came first, reserve it for the first
+time slot of the two slot day and plot the low second (or vice versa).
+
+‘There is a small problem with plotting real-high low readings that are
+available for cash market indices based on underlying stocks. Not all
+stocks open at the same time. The practice of most exchanges is to
+calculate the opening from the few stocks which are open early in the
+‘morning with the previous days closes of all stocks not open during early
+trading, This forces the cash market to always open approximately where it
+Closed the previous day even if the Futures price "gaps" at the opening, By
+using averages, you basically eliminate any significant distortion created
+by this form of tabulating. Without any adjustment, correctly using a cash
+Index’s “reat” high/low plot often exhibits horizontal price movement
+(during the opening period) even when the Futures market opens hundreds
+of points higher or lower. The only way to avoid this situation is to drop
+the first 10 to 15 minutes of the trading day from the recorded data, then
+calculate the high and low for the day. This way you are usually assured
+‘most stocks are open and the openings (not the previous day's closes) are
+part ofthe current reading.
+
+3. The last situation of concern when plotting data isin reference to
+24-hour markets; markets not just traded here in the U.S., but those which
+Continue to trade around the clock on virtually every exchange in the
+world. Currency markets are a perfect example of a situation, How do you
+property keep track of such markets?
+
+‘Over a period of time, I experimented with plotting the cash markets of
+Gold, Silver, Australian S/U.S.$ and the Swiss FranciAustralian $ in
+different ways. When these markets were plotted using data available only
+
+ov004s

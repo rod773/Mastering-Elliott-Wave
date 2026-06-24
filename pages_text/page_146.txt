@@ -1,0 +1,30 @@
+Rule 6 {any Structure possible, if no descriptions apply, use Position
+Indicator Sequences on page 3-61 for guidance }
+Condition "a" -- m0 is less than 100% of mt
+**(if m2 is composed of more than three monowaves [or
+‘monowave groups])
+
+If the first three monowaves of m2 do not retrace more than 61.8% of.
+‘ml, a Complex Correction may be unfolding with the first or second
+monowave (immediately after the end of m1), moving in the opposite
+direction of mi, representing the x-wave OR m1 contains a “missing” x-
+‘wave in its center OR m1 is the 3rd-wave of a Sth-Failure Impulse pattern
+(Trending or Terminal); place ":5/'s5" at the end of ml. NOTE: if the
+"missing" x-wave is used, circle the center of m1 and place ":5 2" to the
+left of the circle and ":F3 2" to the right of the circle, the end of the
+Complex Correction will be confirmed immediately before the point when
+the market violently turns (in the opposite direction of m1) and exceeds the
+61.8% retracement level of ml.
+
+If the first three monowaves of m2 retrace more than 61.8% of m1, m1
+may have completed wavea of a Flat with a complex b-wave OR ml may
+hhave completed wave-3 of a Sth Failure Impulse pattern; place
+the end of m1 to show these two possibilities respectively.
+
+**(if m2 is composed of three monowaves [or monowave
+groups] or less)
+
+If m2 is retraced less than 61.8% by m3, place ":L5" at the end of m1
+If m0 and m(-2) share some of the same price territory, add ":L3" to the
+list.
+

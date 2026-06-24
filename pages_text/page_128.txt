@@ -1,0 +1,45 @@
+Contracting Triangle, the center leg of a Sth Extension Terminal pattem or
+tone of the legs of a Complex Correction; place ":F3/:c3/:sL3/:s5" at the
+end of ml. If m4 is shorter than m3, drop ":F3" from the list and forget
+about the Terminal scenario. If m3 (plus one time unit) is completely
+retraced faster than it took to form, drop ":s5" from the above list. If m(-1)
+is more than 161.8% of mi, drop ":sL3" from the above list. If m(-1) is not
+‘more than 161.8% of m1 and m(-1) is retraced at least 61.8%, drop ":c3"
+from the above list
+
+If m3 is shorter than m1 and m3 (plus one time unit) is completely
+retraced faster than it took to form, a Terminal Impulse or Complex
+Correction may have concluded with m3; place ":c3/:F3” at the end of m1.
+If mGl) is less than 138.2% or more than 261.8% of ml, the ":c3"
+becomes very improbable; place brackets around it ":c3}."
+
+If m3 is shorter than m1 and m3 (plus one time unit) is completely
+retraced slower than it took to form, ml may be wave-a of a Zigzag or the
+c-wave of a Zigzag within a Complex Correction; place ":F3/(:s5)" at the
+end of mL. If m5 (plus one time unit) is completely retraced by m4 faster
+than m4 took to form, drop "(35)" from the list.
+
+If m3 is shorter than ml and md is shorter than m3, m1 may be the last
+leg of a Zigzag or Flat within a Complex Correction, one of the center legs
+of a Running Contracting Triangle OR the first leg of a Terminal Impulse
+pattern; place ":35/:c3/(:F3)" at the end of ml. If m5 is longer than m3,
+drop "(-F3)" from the Structure list If m(-1) is longer than 261.8% of mt,
+
+‘m0 is atleast 100%, but less than 161,8% of mi
+
+If m3 is more than 261.8% of m2. mi may be the first leg of a Zigzag,
+the center section of a C-Failure Flat or the second-to-last leg of a
+Triangle; place " at the end of mi. If m(-1) i les than 61.8%
+‘or more than 161.8% of m0, drop "('sL.3)" from the Structure list. If m2 is
+retraced slower than it took to form, drop "(sL3)" and ":c3" from the list
+If m3 is more than 161.8% of mL, drop ":5" from the lst.
+
+I m3 is between 161.8 and 261,8% (inclusive) of m2, ml may be the
+center section of a C-Failure Flat, the second-to last leg of a Contracting
+‘Triangle or the frst leg ofa Zigzag; place ":c3/sL3V'5" at the end of ml to
+show these three possibilities respectively. If m(-1) is les than 61.8% of
+m0 OR more than 161.8% of mO, then check to see if mL is less than
+38.2% of m(-3) through mO; if so, drop ":sL3" from the list; if ml is more
+than 38.2%, but les than 61.8% of m(-3) through m(-1), place parentheses
+
+000126

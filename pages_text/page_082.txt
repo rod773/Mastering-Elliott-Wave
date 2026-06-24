@@ -1,0 +1,41 @@
+Aspect-2
+
+Depending on
+surrounding price
+action, the horizontal
+action could be ignored
+‘or included. If
+ignored, the entire
+0 move would be a
+single monowave. If
+\._ the horzoma ston is
+included, the entire
+‘move would be divided
+into three smaller
+‘monowaves.
+
+Aspect-2 of the Rule of Neutrality does not apply if the "horizontal"
+price action is actually counter-directional to the two same-ditection waves
+it separates. The horizontal price action must drift in the same general
+direction as the two waves it separates. For example, if the market begins
+‘moving upward then hesitates for a time period, but no data point is lower
+than the last, and then the market begins to advance again, Aspect-2 ofthe
+Rule may be used. If at any time a single data point is lower than the last,
+Aspect-2 CANNOT be applied. WARNING: Anytime horizontal (or near-
+horizontal) price action consumes more than one time unit and separates
+two same-direction waves, Aspect-2 must be applied to break the
+horizontal period into three segments.
+
+Application of the Rule of Neutrality can, at times, be conditional.
+‘When a market contains horizontal price action of only one time unit, the
+decision to apply Aspect-2 frequently rests with the relation of past and
+future market action to the current. For example, if alteration of Intricacy
+is enhanced or Levels of Complexity between patterns is improved or
+
+‘missing” waves are eliminated by employing Aspect2, then it should be
+used. If use of the Rule actually creates these or other problems with
+standard pattern formation, it should be ignored. If the termination of a
+‘monowave would occur beyond 38.2% from the end of said monowave, do
+not apply Aspect-1 (see explanation in Figure 3-17, below).
+
+000070

@@ -1,0 +1,22 @@
+‘must automatically be Level-1 or greater. In other words, anything greater
+in Complexity than a monowave is of Complexity Level-1 or higher. The
+Complexity Level of a pattern is designated by the presence (or absence)
+of underlines to existing Structure Labels (the greater the number of
+underlines, the higher the Complexity Level of the pattern completed). No
+underlines indicate Level-0. One underline stands for Complexity Level-1,
+‘wo underlines, Complexity Level-2, etc
+
+A simple Polywave is composed of only three or five monowaves. In
+Figure 7-5a, two simple polywaves (one Corrective, one Impulsive) are
+diagramed which fall under typical Elliott guidelines. Since both patterns
+subdivide, they must immediately be given a Complexity rating of Level-
+1. To confirm whether the pattern is or is not of greater Complexity, it is
+necessary to investigate the Impulsive segments of the move and pick the
+segment of greatest Complexity. In Figure 7-5a, all the Impulse patterns
+(5'5) are monowaves. Monowaves, as mentioned earlier, are Level-0. This,
+value would be added to the assumed Level-1 rating. The final result; both
+patterns in Figure 7-5a are Level-L
+
+Figure 7-5a
+
+Strictly de to visible subdivision, bth ofthe above patterns automatically must be of

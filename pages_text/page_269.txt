@@ -1,0 +1,13 @@
+Complexity Level or higher.
+
+To make sure there is no misunderstanding, several additional
+examples are needed. In Figure 75b (the bottom of this page and the top of
+the next), both patterns are of Complexity Level-l. Even though
+Corrective segments within each pattern subdivided (wave-b in the Flat
+and waves 2 & 4 in the Impulse pattern), the Complexity Level of the
+Impulse segments of those patterns remained at Level-0. This means the
+Complexity of the entire move is still Level-1
+
+Figure 7-5b
+
+000287

@@ -1,0 +1,39 @@
+Construction of Multiwaves
+
+Slightly different from Complex polywaves, a Multiwave requires one
+of the Impulse segments subdivides into a polywave. Depending on which
+Class the pattem you are analyzing falls in, divert to the Impulsive or
+Corrective heading below.
+
+Impulsive
+
+In a polywave, all *:5's" are monowaves. In a Multiwave, one (or
+more) of the ":5S" is a polywave. To construct a Multiwave, several
+Conditions are required, They are as follows:
+
+1. Of the three thrust waves in an Impulse pattern (1,3, or 5), one - and
+only. one must be a polywave. The other two thrust waves should
+be monowaves.
+
+2. Atleast one of the Corrective phases (ether wave 2 or 4) must be a
+polywave; the other may be a mono- ot polywave.
+
+3. The Correction (2 or 4) which takes the longest period of time
+should occur immediately before or after the Extended wave. If the
+Ist wave extended, wave-2 should take the most time. If the Sth
+wave extended, wave-4 should take more time than wave-2. If the
+3rd wave extends, it makes no difference which wave (wave-2 or
+‘wave-4) takes more time; simply make sure Alternation is present
+between the two waves.
+
+Figure 8-13a displays a very common Multiwave pattern, The 3rd
+wave is the Extended and Subdivided wave (see Extensions vs.
+Subdivisions, page 8-21, for detailed coverage of the Subdivision concept
+and the Rules which govern its operation) creating the only Trending
+polywave of the pattern. Waves-1 and 5 are the two Trending monowaves
+Gee Rule 1 above). Wave-4, the largest corrective pattern, occurred
+immediately after the Extended 3rd wave (see Rule 3). The diagrams in
+Figure 8-13b also show the same Rules being followed by Multiwaves
+with Ist and Sth wave Extensions.
+
+ovozs6

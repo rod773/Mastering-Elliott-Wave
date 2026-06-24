@@ -1,0 +1,33 @@
+‘The length of wave-c is the deciding factor for categorizing a Zigzag
+formation. Is length says many things about the current and future market
+action, If the c-wave of the Zigzag you are working with is less than 61.8
+% of wave-a, refer to Truncated Zigzag. If the c-wave completes at a
+point which is more than 161.8% of wave-a added to the end of wave-a,
+move to the "Elongated Zigzag” section (be careful with this pattern, it
+could be part of an Impulse wave). In any other situation, refer to "Normal
+Zigzags".
+
+Normal
+
+In a Normal Zigzag, the c-wave can be anywhere from 61.8% 10
+161.8% (Intemally and Externally, for details, refer to page 12-22) of
+wave-a, The listing below describes and illustrates the conditions
+necessary for Normal Zigzag formation.
+
+1. Wave-b (when measured from its terminus) must not retrace more
+than 61.8% of wave-a. Figure 5-24 (previous page) shows several
+situations which allow for, or negate, Zigzag formation.
+
+Figure 5-25a
+
+Length
+of Wave-al
+.00)
+
+Maximum length of
+wave-c ina Normal
+Zigzag - 161.8% of
+Wave-a added to the
+end of Wave-a
+
+000205

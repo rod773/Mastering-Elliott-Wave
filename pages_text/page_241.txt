@@ -1,0 +1,27 @@
+b. Zigzag (5-3-5)
+
+‘Since there are not many Zigzag variations (compared to those
+possible in Flats and Triangles), there are only a few relational
+possibilities.
+
+Normal
+
+Fibonacci relationships between adjacent waves of a pattern cannot be
+strictly depended upon. If waves-a & b do relate, it will be by 61.8% or
+38.2%. The more reliable relationships will occur between waves-a & c.
+‘Wave-a will be either 61.8%, 100% or 161.8% of wave-c (either Internally
+or Externally, see "Advanced Fibonacci Relationships," page 12-22 for
+details).
+
+Elongated
+
+‘When a ZigZag is given the title, “Elongated,” it means the c-wave is
+excessively long in relation to wave-a, Usually an Elongated c-wave will
+have no relation to wave-a; if it does, it will be by 261.8%.
+
+Truncated
+
+‘The only relationship likely in a Truncated Zigzag is between wave-a
+and wave-c. Wave-c would be 38.2% of wave-a.
+
+ovoz29

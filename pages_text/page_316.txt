@@ -1,0 +1,4 @@
+Construction
+
+If adjacent waves in an Impulsive or Corrective pattern both subdivide,
+other forms of Alternation need to be considered to keep the count

@@ -1,0 +1,11 @@
+when dealing with real-time data, it is not essential the angle
+of ascent or descent is exactly 45 degrees; some variance from ideal is
+allowed. Figure 3-6 illustrates the price and time range of error which is
+allowed when you attempt to proportion a market's price action, As you
+can see from the chart, a deviation of no more than 25% (vertically or
+horizontally) of the length of one side of the square should be your
+charting goal. An example of a downward sloping Directional period can
+be found in Figure 37. Notice the termination point is slightly to the right
+of ideal (late), but well within limits of acceptability. Figure 3-8 illustrates
+Directional period which terminated a little to the let of ideal (early)
+

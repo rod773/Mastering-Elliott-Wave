@@ -1,0 +1,38 @@
+‘Once the specific Flat variation taking place is knownt, proceed to the
+Conditional Rules” section (page 5-34) for further testing of the pattern,
+
+Normal B-wave
+
+‘The b-wave, to be considered "normal," should fall between 81-100%
+(inclusive) of wave-a. Under these conditions, the c-wave will most likely
+retrace all of wave-b. Ifthe length of wave-c falls between 100-138.2% of
+‘wave-b, the pattem should be considered a Common Flat. Ifthe c-wave is
+more than 138.2% of wave-b, the market is forming an Elongated Flat. If
+the c-wave is less than 100% of waveb, the pattern is a C-Failure.*
+
+‘Weak B-wave
+
+‘Weak b-waves ate characterized by their less than normal retracement
+of wave-a. To classify as a weak b-wave, it must retrace between 61.8%
+80% (inclusive) of wave-a. If thec-wave is less than 100% of wave-b, the
+patter should be called Double Failure. If wave-c is between 100%
+-138.2% of waveb, the pattern should be called a B-Failure. If wave-c is
+longer than 138.2% of wave-b, it will once again fall under the Elongated
+Flat category.*
+
+ZigZags (5-3-5)
+
+‘There is a limited number of variations on ZigZag patterns. Zigzags
+and their complex combinations (see Chapter 8) are the only corrective
+patterns which can temporarily “resemble” Impulsive activity. To avoid
+misinterpretation, very specific limits must be placed on Zigzag behavior.
+Below are the minimum requirements which allow a pattern t0 be
+categorized as a ZigZag.
+
+1, Wave-a should not retrace more than 61.8% of the previous Impulse
+
+wave (if present) of one larger degree (see Figure 5-22a).
+
+Figure 5-22a
+
+000202

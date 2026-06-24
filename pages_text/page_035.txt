@@ -1,0 +1,6 @@
+constructed wave count. Also, try to avoid all optimistic or pessimist
+impulses. When all techniques are followed correctly, you do not need to
+make a guess, the completed wave count will virtually tell you what price
+level the market should reach and in what time frame that should happen.
+
+000023

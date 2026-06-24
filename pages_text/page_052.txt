@@ -1,0 +1,19 @@
+Line Chart
+A single, continuous lineconnects the
+highs only of the Bar chart on the left.
+
+Only one figure per time period should be employed so it is possible to
+decide how each figure changes (if at all) the current expectations and
+possibilities of the market. This does not mean only one figure per day
+should be used for your analysis, simply that a single figure per time unit
+(whatever that time unit is - one day, week, hour, etc.) is optimal. This
+allows you to arrive at a definitive conclusion on current market conditions
+and future expectations. A price band (the bar line on a bar chart) does not
+enable you to make an absolute, immediate decision on current and future
+market possibilities (see Figure
+
+Figure 2-5
+
+For this example, let us assume the market experiences a violent day
+‘When looking at a chart you notice the price action for one day is above
+

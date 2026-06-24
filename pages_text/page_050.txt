@@ -1,0 +1,21 @@
+factors occurring simultaneously, the high and low. Only one figure per
+time period should
+
+Figure 2-4a
+
+Each heavy dot is the final price each hour on the hour (Figure 2-4),
+The exact same chart and dots are reproduced below, minus the intra-hour
+action (Figure 2-4b). Each hourly closing was connected with a straight
+line. The result is not even representative of the above chart. Since market
+patterns do not develop on a specific time schedule, itis quite illogical to
+think the closing of each hour (one second out of 3600) is going to occur
+right at the precise moment a patter finishes, right atthe high or low. Just
+based on probabilities, the hourly close will virtually never occur at the
+proper moment to register the highest and lowest price of the day. In future
+chapters, when relationships are used to verify wave patterns, it is critical
+the actual highs and lows are recorded (or a reliable representation of those
+highs and lows). It should be clear from this example that hourly closings,
+are not the way to plot price action.
+
+Figure 2-4b
+

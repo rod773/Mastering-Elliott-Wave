@@ -1,0 +1,44 @@
+to manifest itself, Since Cash markets always involve more participation
+by the public (through direct buying and consumption, as is the case with
+commodities) than Futures markets, wave formations always tend to be
+more standardized and predictable when cash data is used. In constructing
+your data series, use cash data whenever possible.
+
+Now, we need to deal with another matter which has to be broken up
+into three different discussions. As mentioned earlier, proper analysis
+requires only one price data point occur per predetermined time period.
+How is this data obtained or decided upon? The next three numerical
+divisions discuss that problem:
+
+1. For most Cash markets, there is no decision to be made; only a
+single price quote per day is available. When only one data point per day is
+available, you simply plot that data over a predetermined, consistent
+horizontal distance ("base” time unit) which represents one full trading
+day. Each new data point will be plotted an equal distance from the next
+(this always applies no matter what time frame is covered on the chart).
+
+2. It becomes more difficult to deal with a Cash market which has
+data available continuously all day (such as the S&P 500, NYSE, MAXI,
+Value Line, etc). First, you need to decide which minimum time frame
+you plan on following. The shorter the time frame, the more sophisticated
+the equipment and/or software necessary to track the data and the more
+charts which will need plotting and deciphering. Following shorter and
+shorter time frames for trading requites you have a progressively greater
+understanding of the Wave Theory and a “warehouse” of memorized
+information at your disposal. The shorter the time frame followed, the
+greater the likelihood one of the many important, but subtle factors
+necessary for proper Wave analysis will be overlooked in the rush and
+excitement ofthe trading day. We could call this the "Elliot time crunch;
+everyone is subject (0 it, some more than others. Guard yourself against
+the danger of trying to trade with the Theory over shorter periods of time
+than can possibly be handled. If you do not, adverse and unexpected
+market action will cure you ofthe habit.
+
+‘The greatest benefit of following a market on a short-term time frame
+(if you are holding positions overnight) is it increases your ability to
+determine when a pattern has completed. Personally, I usually employ the
+Intraday market action as part of my charting arsenal only when I am
+looking for a low risk entry and price patterns indicate the end of a
+campaign is approaching.
+
+ovooa2

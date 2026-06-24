@@ -1,0 +1,25 @@
+ZigZags
+
+Unlike Flats, Zigzags do not come in as many variations. Theit
+construction and requirements are few, but demanding, The two areas of
+significant consideration for Zigzag patterns are: how long is the c-wave is
+in relation to the a-wave; and how much does wave-c subdivide in relation
+to wave-a? The following diagrams have been drawn to show how these
+and other niles (when considered simultaneously) go to form realistic
+Zigzag patterns (see Figure 11-22)
+
+Wave-a
+
+Wave-a must be an Impulse structure and should not be retraced by
+wave-b more than 61.8%. If you are certain that the a-wave is Impulsive,
+bot the b-wave retraces more than 61.8%, then that retracement will only
+be the a-wave (of one smaller degree) of wave-B in which the c-wave (of
+‘wave-B) will fail. If part of the B-wave retraces 81% or more of wave-a,
+then you should recheck your analysis of wave-a. It will most likely fall
+under the Missing Wave Rule in which wave-a (that at a glance only
+looked Impulsive) is better interpreted as a Corrective Double Zigzag or
+Double Combination.
+
+Figure 11-22
+
+000387

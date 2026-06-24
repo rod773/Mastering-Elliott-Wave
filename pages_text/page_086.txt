@@ -1,0 +1,20 @@
+Figure 3-20a presents the observations required to discover where m2
+completed when m2 is a monowave. Figure 3-20a also demonstrates the
+importance of breaking either the high or low of m1 before the finalization
+‘of m2 can take place. Figure 3-20b presents a similar process which is
+used in uncovering the termination of m0. These techniques will be used in
+the next section, "Retracement Rules,” to calculate the percentage relation
+of ml to m2, mO to m1, mO to m2, etc
+
+In Figures 3-20a & 3-20, m0 and m2 were monowaves. Unlike m1,
+which must be a monowave (or a compacted* Elliott wave pattem), m0
+and m2 can be composed of one (or any odd number) of monowaves,
+‘compacted or uncompacted. The composition of m0 and m2 is dependent
+upon the amount of market action that takes place within the confines of
+the high and low of m1. Using an upward slanting ml for this example, the
+righthand side of Figure 3-21 a illustrates what market action after ml
+‘may look like when m2 is composed of one or more monowaves. The left-
+hhand side of the same Figure illustrates what market action before m1 may
+look like when m0 is composed of one or more monowaves.
+
+Figure 3-20a

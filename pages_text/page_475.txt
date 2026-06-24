@@ -1,0 +1,26 @@
+External
+
+Unlike Internal relationships, External relationships are based on
+non-overlapping, but touching price ranges. For example, wave-a may be
+50 points long and complete at the 500 level. Ifthe c-wave were to relate
+Externally to wave-a, you would calculate 61.8%, 100%, and 161.8%
+values of wave-a and add or subtract those amounts from the 500 level
+(Figure 12-37). Here you are:not directly relating the length of wave-a to
+wwave-c; you are measuring wave-a and then subtracting price amounts,
+based on the Fibonacci ratios, from wave-a's low which relate only to
+wwave-a. In other words, External relations are derived by using one price
+Tength and taking Fibonacci ratios in increasing or decreasing scale and
+adding or subtracting those values directly from a specific price level
+defined by the termination of one of the waves of the pattern being studied.
+‘These levels would be considered potential support or resistance zones. If
+the market stops and reverses at one of these levels it has confirmed their
+importance.
+
+Figure 12-35
+Triangle Pattern
+
+1.00 \ 618
+
+Figure 12-36
+
+ovoaes

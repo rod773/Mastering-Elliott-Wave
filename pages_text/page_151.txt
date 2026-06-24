@@ -1,0 +1,45 @@
+Terminal Impulse pattern completed with m1; add(:L3)" to the existing
+Structure list.
+Condition "b” -- m0 is at least 100%, but less than 161.8% of mi
+‘**(if m3 is composed of more than three monowaves [or
+monowave groups)
+
+If the first three monowaves of m3 do not retrace more than 61.8% of
+m2, a Complex Correction may be unfolding with the first or second
+monowave (immediately after the end of m2), moving in the same
+direction as ml, representing an x-wave this might also mean m2 is
+“missing” a b-wave in its center OR m2 is the 3rd-wave of a Sth-Failure
+‘Impulse pattern (Trending or Terminal); place ":F3/:c3/:L3/:L5" atthe end
+of ml. If more than five monowaves are required to retrace more than
+61.8% of m2, drop ":F3" and the "3rd-wave/Sth-Failure” scenario as a
+possibility. NOTE: for the "missing" wave scenario circle the center of m2
+and place ":5 2” to the let ofthe circle and "b:F3 /x:c3 2" to the right of
+the circle. The end of the Complex Correction will be confirmed complete
+‘when the market violently tums (in the opposite direction of ml) and
+exceeds the 61.8% retracement level of m2. The termination of the
+Complex Correction would be at the beginning of the violent tum-around.
+To account for all of these possibilities, place "x:c3 2" at the end of the
+first and second monowave (immediately after the end of m2) which are
+‘moving in the same direction as ml.
+
+If the first three monowaves of m3 retrace more than 61.8% of m2, m2
+may have completed wavea of a Flat with a complex b-wave OR m1 may
+have completed wave-3 of a Sth Failure Impulse pattern; place ":F3/:5" at
+the end of m1 to show these two possibilities respectively.
+
+‘=*(if m3 is composed of three monowaves [or monowave groups}
+or less)
+
+If m0 is at least 61.8% of m1 and m3 is between 100-261.8% of m2,
+ml may be part of an Expanding Triangle; place ":c3" at the end of m1. If
+m4 is more than 61.8% of m3, add ":F3" to mi's Structure lst.
+
+If m1 is not much more than 61.8% of m0 and m2 is retraced less than
+61.8% OR more than 100% in a period of time equal to or less than that
+taken by m2 and the time it took for m2 to equal the length of m0 was
+equal to or less than that consumed by m0 and m2's price coverage
+‘more vertical than mO, there is a good chance m1 completed a Contracting
+Triangle or a C-Failure Flat; place ":L3/:L5" at the end of mi to show
+these two possibilities (respectively.
+
+000139

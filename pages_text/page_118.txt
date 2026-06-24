@@ -1,0 +1,45 @@
+If part of m2's price range is shared by m0 and m3 is longer and more
+vertical than m1 during a time span equal to (or less than) m1 and m(-1) is
+shorter than m1 and m0 and m2 are obviously different in price or time or
+both and m4 (or m4 through m6) returns to the beginning of ml in a time
+period 50% of that consumed by m1 through m3, a Sth Extension Terminal
+pattern may have completed with m3; add ":c3" to mi’s Structure list.
+
+If m3 is shorter than m1 and part of m2's price range is shared by m0
+and m(-1) is Longer than m0 and m1, when compared to m(-1) and m3, is
+not the shortest of the three and from the end of m3, the market retums to
+the beginning of ml (or beyond) in a span of time which is 50% or less of
+that consumed by m1) through m3; place ":c3" at the end of m1.
+
+Condition"c” — if m0 is between 100% and 161.8% of mi
+(inclusive)
+
+Place a ":5" at the end of m1. Read the below descriptions to decide if
+any additional Structure labels should be added.
+
+If m0 and m1 are approximately equal (allow for 10% leeway) in price
+and m0 and m1 are equal or related by 61.8% in timeand m3 is longer and
+‘more vertical than m1 and m2 takes at least as much time as m0 or mi
+and m2 is very close to 38.2% of mi and one of m0’s Structure label
+choices is "JF3," then add "[:c3]" to the Structure list for m1. For ":c3" to
+be a good choice, itis preferable m2 terminate at an important Fibonacci
+price level to m0, ml or the previous Impulsive wave (monowave or
+higher). Keep in mind that a ":c3,” even under these conditions, is still a
+risky choice (that isthe reason for the brackets which surround it).
+
+If m3 is longer and more vertical than m1 and either m3 is completely
+retraced OR m3 is retraced no more than 61.8% and m2 is very close to
+38.2% of ml and one of m0's Structure label choices is "3" and m(-3) is
+longer than m(-2) and m(-2) or m(-1) is longer than m0, ml may be the
+second-to-last leg of a Contracting Triangle; add "(sL3)" to the Structure
+list. Keep in mind that an ":sL.3," even under these ideal conditions, is still
+a less likely Structure label than the ":5" placed earlier (that is the reason
+for the brackets which surround it).
+
+Condition"d" — if m0 is more than 161.8% of m1
+
+‘There is only one possibility under these circumstances, place a
+
+the end of ml.
+
+000106

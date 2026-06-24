@@ -1,0 +1,20 @@
+Running Triangle, some important observations are necessary. Unlike an
+Expanding Running Triangle, a Terminal must drift slightly upward if the
+trend of one larger degree is up, making higher highs for waves 1 -3 & 5
+and higher lows for waves 2 & 4 (vice versa if the trend is down). In an
+Expanding Running Triangle, te first leg must be shorter than the second
+The Sth wave of the Sth Extension Terminal pattern should be at least
+100% of waves-1 & 3, while wave-3 should not be more than 161.8% of
+wwave-1, Wave-4 should retrace at least half of wave-3 and can retrace up
+to 99% (even though that is highly unlikely).
+
+Wave-5 Non-Extended
+
+If the Sth wave is not extended, it should not be more than 61.8% of
+wave-3, It should not be of the highest complexity of the three thrust
+waves. The 5th wave should break beyond the trendline drawn across
+waves 1 & 3, The 2-4 trendline should be “clean” and will not be broken
+until after wave-5 is complete (unless wave-5 is a Triangle). Wave-4
+should consume less time and price than wave-2.
+
+000372

@@ -1,0 +1,24 @@
+requires the development of more than one monowave. Figure 3-22b
+illustrates how m(-2), m(-1), m0, m2, m3 or m4 may be composed of one
+(or more monowaves. Its important to remember thatthe termination of all
+monowaves to the right of m1 must break a previous high or low; the
+termination of all monowaves to the left of m1 must be figured backwards
+in time based on when they "break" a latter high or low.
+
+Before going any further with this chapter, it is imperative you
+understand the procedures necessary in obtaining the terminal points of
+m(-2) through m4, If you do not feel comfortable with these procedures,
+continue to study the Rules of Observation until you do; no additional
+‘work can be done until this process is understood.
+
+‘After you have become proficient at applying the Rules of Observation
+to actual market action, the next analytical step involves the application of
+the Retracement Rules. This will require calculating the relationship of
+m2to.ml and mO_to-ml (on a percentage basis), then deciding which
+preestablished relational range the calculated ratio falls within, The
+m2/m1 ratio describes which Rule Identifier applies to "m1." Then, the
+‘mO/m1 ratio indicates which alphabetic Condition of each Rule applies.
+Keep in mind, the Retracement Rules work the same whether ml is
+slanting upward or downward.
+
+ovo0s.

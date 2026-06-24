@@ -1,0 +1,47 @@
+Extension. If you find a wave with only an ":s5" Structure label, two
+previous labels (going backward in time) must be connected to the ":s5."
+The two sequences which must precede the ":s5" are "5 F3" or " F3 c3."
+‘The following are examples of where ":s5's" can be found under realtime
+circumstances:
+
+1, 5-F3~85 ++ xic3 ++ F3 (occ3 and the first F3 must be
+smaller than 5)
+
+2. 5 -F3~ 85 ~ F3~ LS (both F3's must be smaller than 5
+and L5 must be longer than $5)
+
+3. F3-c3-$5 ++ x:c3 ++ F3 (bothe’ and xic3 must be
+‘smaller than s5;F3 will usually be larger than x:¢3)
+
+"Ls"
+
+This Structure label isthe abbreviation for "Last five (5). Since an L5
+is always the conclusion of a larger Elliott pattern, the presence of an *:L5"
+can be the simultaneous termination of larger Degree patterns. The
+‘minimum confirmation of an ":L5" requires that the trendline drawn across
+the end of m0 and mf-2) be broken in a period of time equal to that of the "
+215" (plus one time unit) or less. To connect an ":L5" to previous market
+action, the Structure label immediately before the ":LS" must be an ":F3"
+or a ":c3." If you find an Impulsive Structure label (:L5, :s5 or :5)
+immediately before the ":L5," circle the end of both waves. When you
+reach Chapter 4, search for a possible Structure Series which ends with the
+earlier "LS, :85 or :5." Once the earlier Impulsive Structure label has been
+integrated into an Elliott pattern, Compact the patter to its base Structure
+(Compaction is discussed in Chapter 7), dot the start and finish of it, then
+attempt to connect the second Impulsive Structure with the Compacted
+pattern and earlier Structure labels. Examples of where *:LS's" occur under
+real-time conditions follo
+
+1, 5 ~ F3~ LS -? (F3 must be shorter than both 5 and LS;
+circle end of L5)
+
+2. s5 -F3-L5 - ? (LS must be longer than s5, preferably LS
+willbe 161.8% or more of s5; circle end of L5)
+
+3. F3~ C3: L5 - ?(ife3 is 138.2% or more of F3,L5 will
+almost certainly be shorter than €3; circle end of L5)
+
+4, F3-C3-L5 ++ x:c3 ++ F3 (both e3 and x:c3 must be
+larger than 5, F3 must be smaller than x3)
+
+000180

@@ -1,0 +1,27 @@
+retain the compacted patterns base Structure instead, When trying to
+integrate these special compacted patterns with surrounding market action,
+use the Position Rules to help you decide if only the base Structure of the
+compacted pattern is required or if a Position Indicator is necessary to
+connect it to a larger Elliott pattern
+
+Figure 3-36
+
+You may run ino difficulty when piecing together multiple poly wave
+(or higher) pattems if you do not understand Complexity and its impact on
+market behavior and pattern interaction. Make sure adjacent patterns
+(represented solely by base {:3 or :5] or positioned Structure labels (:F3,
+15, etc.]) are never more than one Complexity Level removed. For
+example, if m0, m1 and m2 were previously identified as Standard Elliott
+Wave corrections and m0 were Complexity Level-1, ml were Level-2 and
+m2 were Level-1, the three could be combined into a larger Standard
+Elliott Correction. If m0 were Level-1, ml were Level-2 and m2 were
+Level-4, the difference between m1 and m2 is two (2) Complexity Levels;
+that isnot allowed under the Neely Method of pattern formulation.
+
+‘Degree" is another important concept which must be understood and
+applied during the amalgamation of various wave segments. If you are
+unfamiliar with Degree and its application to price action, read the "Rule
+of Similarity and Balance” on page 4-4 before attempting to eliminate
+Structure labels from your chart. That section of Chapter 4 will assist you
+in detecting and combining waves ofthe same Degree. Chapter 7, page 11,
+goes into more detail on the Degree concept; as your understanding of

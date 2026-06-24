@@ -1,0 +1,19 @@
+How Do You Plot Data?
+
+Once you have decided on the market you wish to follow and the data
+desired, itis necessary to choose the time frame which will be employed
+‘on the chart. A properly plotted data series should be constructed like
+Figure 2-6 (next page). This diagram shows one figure (represented by
+each dot) being placed in the center of the time slot which the figure
+covers. After all figures have been plotted, use a straight line to connect
+each dot. Monowaves will immediately begin to appear (see Figure 2-7,
+next page).
+
+Figure 2-6
+
+‘Smallesttimeunit, Price plot-
+ted in middle of time unit.
+
+Figure 2-7
+
+ovooas

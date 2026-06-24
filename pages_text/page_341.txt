@@ -1,0 +1,12 @@
+Impulse pattem often conform tothe same time duration. Also, he noticed
+that waves a & cin a Zigzag tended toward equality in time. After years of
+observation, I have discovered there are many additional ways time can be
+used to enhance the analytical process.
+
+In its simplest form, the Time Rule can be stated as such: No three
+adjacent waves (of the same Degree) can be simultaneously equivalent in
+time (See Figure 93)
+
+Figure 9-3
+
+000329

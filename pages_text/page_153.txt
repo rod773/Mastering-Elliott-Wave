@@ -1,0 +1,43 @@
+as mis not simultaneously less in time than both m0 and m2. m1 may be
+part of a Zigzag or Impulse patter, place ":F3" at the end of m1
+
+I m1 takes the same amount of time (or less) as m0 and/or mt takes
+the same amount of time (or less) as m2andm(-2) is 161.8% or more of
+m(1) and m(-1) is shorter than mOand mi is less than 61.8% of the
+distance from the beginning of m(-2) through the end of m0 and if m3 is
+longer than m2, then make sure m4 is shorter than m3 and if m3 is longer
+than m2, then make sure that 61.8% of m(-2) through m2 is retraced before
+the end of m2 is exceeded, THEN mi may be the x-wave of a
+Zigzag ot a Complex correction which begins with a Zigzag; place
+at the end of ml.
+
+If m1 takes the same amount of time (or less) as m0 OR ml takes the
+same amount of time (or less) as m2 and m0 is between 100-161.8% of
+m(-1) and m2 is not more than 161.8% of m0 and m4 is at least 38.2% of
+‘m2 and if m3 is longer than m2, then make sure m4 is shorter than m3,
+THEN m1 may be the x-wave of a Complex correction which starts with a
+Flat and ends with a Flat or Triangle; put "x:c3" atthe end of ml
+
+If m1 is less than or equal to m0 in time and/or mi is less than or
+equal to m2 in time, place ":c3" at the end of ml. If m(-1) and m1 are
+almost equal in price or time or both (or related in either case by 61.8%)
+and m(-1) is shorter than mO and when comparing the price lengths of
+‘m(-2), m0 and m2 you find that m0 isnot the shortest of the three and not
+‘one of the three is more than 161.8 of the next smaller, then mi may be
+part of a Complex Double Zigzag (which will involve one or two x-
+waves); add an "x" in front of ":c3." If m0 is not the longest of the three
+mentioned above, the x-wave is probably at the end of m1, but if there are
+other Structure label possibilities for m1 other than ":c3," the x-wave could
+be at the end of m(-1) or m(3). If m0 is the longest of m(-2), m0 and m2,
+the x-wave may be "missing in the center of m0, mark the center of m0
+with a dot and put "x:c32" to the right of the dot and place ":s5" to the left
+of the dot; m(-2), in this instance, would be the beginning of the pattern
+and m2 would be the end. If m(-2) through m2 constitute a Complex
+Correction with a “missing” x-wave, the market should retrace between
+61.8-100% of it before the next wave group (of the same Degree as the
+Complex Correction) begins. Ifthe "missing" x-wave Complex Correction
+Js retraced less than 61.8% and then the market exceeds the end of the
+Complex Correction, either m(-2) through m2 does not make-up such a
+pattern or the Complex Correction is part of a Terminal Impulse patter.
+
+voi:

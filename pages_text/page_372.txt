@@ -1,0 +1,44 @@
+Advanced Progress Label Application
+Impulse Patterns
+
+Trending
+‘Wave-1 Extended
+Wave-1 Non-Extended
+Wave-2
+Wave-3 Extended
+Wave-3 Non-Extended
+Wave-4
+Wave-5 Extended
+Wave-5 Non-Extended
+Sth Wave Failure
+
+Terminal
+‘Wave-1 Extended
+Wave-1 Non-Extended
+Wave-2
+Wave-3 Extended
+‘Wave-3 Non-Extended
+Wave-4
+Wave- Extended
+Wave-5 Non-Extended
+
+Corrective Patterns
+
+Flats
+B -Faiture
+C-Failure
+Common
+Double Failure
+Elongated
+Inregular
+Irregular Failure
+Running
+
+Zigrags
+‘Wave-a
+Wave-b
+Wave-c
+
+Triangles
+
+000360

@@ -1,0 +1,38 @@
+If m2 is retraced less than 61.8%andm1 and m3 share some of the
+same price range and mé is shorter than m2 and m4 is completely retraced
+faster than it took to form with the market approaching (or exceeding) the
+beginning of m0 within 50% (or less) of the time it taken to form mo
+through m4, then the market possibly completed a Terminal pattern at m4;
+place "sc3" atthe end of m1.
+
+If m2 is retraced less than 61.8% and m2-m4's combined price
+coverage is larger and their movement more vertical than m0'sand m(-1) is
+at least 61.8% of m0, there is a remote chance m1 completed a Contracting
+Triangle; add "(3)" to mL
+
+If m2 is retraced less than 61.8 % and m2-m4's combined price
+coverage is larger and their movement more vertical than m0'sand m(-1) is
+approximately equal to m0 in price and m1 is equal (or greater) in time to
+‘m(-1) and m0 takes more time than m(-1) and more time than ml, there is
+a remote chance m1 completed a “severe” C-Failure Flat; add "[:L5]" to
+mi
+
+If m3 is between 61.8-100% of m2 and md is less than 61.8% of m0
+and m1 takes less time than m0, ml may be an "x-wave" within a
+Complex Correction; jot that down and place "x:c3" atthe end of ml,
+
+If m3 is between 61.8-100% of m2 and m4 is 61.8% of m0 (or more),
+
+°F" atthe end of mi
+If m3 is less than 61.8% of m2, place an ":F3/:c3" atthe end of ml.
+If m3 is at least 61.8% of m1 but less than 100% of m2 and m4 is at
+least as long as m2 and m4 (or m4 through m6), without breaking beyond
+the end of m3, is at least 61.8% of m0, there is a good chance ml is the
+first leg of an Irregular Failure Flat; add ":F3" to ml.
+
+If at this time there are still no Structure label(s) present for m1, place
+"83" atthe end of m1
+
+put
+
+000133

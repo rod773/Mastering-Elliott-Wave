@@ -1,0 +1,38 @@
+Chart Preparation and Data Management
+
+On your initial exposure to this material, you may simply want to
+follow the illustrations in the book. After reviewing this section, it is
+recommended you construct your own real time charts as directed.
+
+‘The first step in making a chart isto pick a market you wish to analyze
+and then decide on a starting point for your observations. Without a
+specific starting point, none of the techniques to be described in this
+chapter will make any sense. Here is what you do: plot a year of data
+consisting solely of the highest and lowest price of each month in their
+order of occurrence (using the techniques described earlier under "What
+Data Should Be Used To Analyze Waves, "page 2-6 and "How Do You
+Plot Data, “page 2-11), then look over that wave chart and locate the
+monthly monowave which is closest to the center of the entire price range
+(high to low). [You want a starting point which is not of historical
+significance. Why? Major turning points are more difficult to work with
+under Elliott since they are generally associated with abnormal behavior.
+For our purposes we need to make things as simple as possible.) Next,
+ascertain a date which falls around the price center of that middle, monthly
+monowave.
+
+Once a date has been established, begin constructing your first daily
+‘wave chart (in the proper manner) using approximately 60 cash data points
+covering about 8 inches of horizontal space on a sheet of graph paper. On
+this scale, monowaves should be relatively easy to identify. After
+Constructing your first chart, pick the earliest important high or low that
+‘occurred (see Figure 3-1), From that point you want to draw second chart
+that doubles the detail of the first one (Figure 3-2a starts from the
+important low marked in Figure 3-1; its time scale has been enlarged to
+allow for close scrutiny of monowaves). In other words, the same 8 inches
+of horizontal space used for the first chart will, on the second chart, cover
+only half as much time as the first and employ approximately 30 data
+points.
+
+Figure 3-1
+
+ov00s2

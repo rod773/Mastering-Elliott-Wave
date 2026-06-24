@@ -1,0 +1,41 @@
+Rulle 4 (2s between 61.89% and 100% exclusivel)
+
+Rule 4 applies when m2 retraces more than 61.8%, but less than 100%
+of ml. Figure 3-26 gives an example of this event. Calculate the relation of
+‘m0 to ml; then, using the list below, locate a Condition Identifier. Next,
+measure the percentage retracement of m2 by m3 to obtain a Category
+Identifier
+
+Figure 3-26
+
+Conditions for Rule 4
+
+Condition “a” -- if m0 is less than 38.2% of m1, mi falls under the
+unique jurisdiction of Rulle 4a (see Rule 4,
+Condition "a" of Figure 3-27).
+
+If m0 is atleast 38,2%, but less than 100% of m1, then
+the unusual properties of Rule 4b take affect (see
+Rule 4, Condition "b" of Figure 3-27).
+
+{m0 is at least 100%, but less than 161.8% of m1,
+Rule 4c must be applied (see Rule 4, Condition "e"
+of Figure 3-27),
+
+~ If m0 is between 161.8% and 261.8% of m1
+
+(inclusive), then Rule 4d should be considered (see
+Rule 4, Condition “a” of Figure 3-27).
+
+~ If m0 is more than 261.8% of m1, then Rule 4e is the
+
+most appropriate (see Rule 4, Condition "ein
+
+Condition
+
+Condition
+
+Condition
+
+Condition
+

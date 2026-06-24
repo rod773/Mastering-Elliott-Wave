@@ -1,0 +1,36 @@
+possibility of a missing wave in the pattern, it only decreases the
+likelihood. Having less than the needed number of data points guarantees
+there exists a missing wave in the pattern (as long as your progress label
+interpretations are correct). A polywave with twice the minimum number
+of data points required (or more) should not be considered a candidate for
+a missing wave. Each one of the listings below includes the starting data
+point as part of the minimum required to form the pattern listed (Figure
+12-45),
+
+POLYWAVE PATTERNS (only):
+1. Impulse wave 8
+2 Zigeags
+3 Flas
+4. Triangle
+5. Double Flats & Zigzags 10
+6. Doubles ending with Triangles
+7. Triple Flats & Zigzags 15
+8, Triples ending with Triangles
+Figure 12-45
+‘Stating Data Point
+
+‘Ther are four datapoints inthis diagram. The sartng data pint is
+included in tbe listingsabove. When youare counting the number of daa
+points which make upapttem, make sure to count the ating point.
+
+For a pattem to contain a missing wave, it must take just the right
+‘number of data points to form most, but not all, of the monowaves needed.
+‘What is "just the right number”! It is not a specific amount, but a range.
+Fifty percent of the minimum amount required for a formation (or less)
+basically eliminates the possibility of a missing wave and so does a
+doubling of the minimum amount, Why? At half the minimum, the pattem
+‘would be so simple it would on register as a monowave or a simpler
+corrective pattern. [For example, Double Zigzags will appear as single
+Zigzags when severe time restraints are placed on their formation; see
+
+000472

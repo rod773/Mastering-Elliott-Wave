@@ -1,0 +1,10 @@
+Figure 3-9 illustrates the incorrect application of the Rule of
+Proportion, Even though the market advances into the top-right comer of
+the square and the action oscillated around a 45 degree advancing angle,
+the Directional period ended too early (the Directional action in Figure 3-9
+ended at the point identified with an asterisk). To adjust, Figure 3-9 should
+be redrawn to look like Figure 3-5 (page 3-5).
+
+Figure 3-9
+
+000060

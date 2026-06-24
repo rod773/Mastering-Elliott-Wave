@@ -1,0 +1,21 @@
+Identification of Monowaves
+
+After the proper charts have been completed, identifying each
+_monowave becomes the next step in the analytical process. Using Figure
+3-2a for demonstration purposes, start from the lowest and earliest point
+(designated "Important Low"). Follow the price action upward, data point
+by data point, until one data point is lower than the previous, no matter
+how minor the amount. Once that change in price direction occurs, you
+hhave just identified your first monowave. Put a DOT at the end of that
+initial monowave (see Figure 3-2a).
+
+Follow the down move from the dotted monowave's high (data point
+by data point). The first data point that is higher than the previous indicates
+the market completed its second monowave, Put a dot next to the second
+monowave's low (see Figure 3-2a). Continue this identification process
+until you have dotted the end of numerous monowaves. In Figure 3-2b, all
+‘monowaves have been identified with their own dot (the end of the last
+monowave is not dotted since a change in price direction has. not
+occurred),
+
+Figure 3-2a

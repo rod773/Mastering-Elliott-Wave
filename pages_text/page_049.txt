@@ -1,0 +1,36 @@
+What Data Should be Used to Analyze
+Waves?
+
+Closing Price Data
+
+‘The use of closing prices on a monthly, weekly, daily, or hourly basis
+is the most unreliable way to track development of a market from an
+Elliott Wave standpoint. The closing price of a market has litte to do with
+the action which took place intra-monthly, weekly, daily, or hourly. It will
+not give you any idea of how high or low the market traded during a
+particular period (Figures 2-4a & 2-4b illustrate why this is the case), thus
+‘making it virtually impossible to apply the wide range of "pattern specific"
+Criteria presented in this book. For example, a market could rally 10 points
+during the first hour of the day, close near the low of that hour, drop 20
+points the next hour, recover and close where it closed the previous hour.
+Under those circumstances, the plotting of closing data would not
+accurately represent reality. Therefore, closing figures - over any time
+frame - should never be used unless nothing else is available. If you want
+to employ hourly data, the correct way of collecting data is revealed on
+page 2-9 (see Cash Data, #2). Proper plotting of data, collected over any
+time frame, is discussed on page 2-11
+
+Bar Charts
+
+Bar charts reveal what a market has done in the past by showing the
+trading range which existed over a standardized portion of time plotted on
+a single, vertical line (Figure 2- 4c). The problem with bar charts, from an
+Elliot perspective, is they do not possess the necessary qualities to allow
+for the analysis of waves in absolute terms. If you were to draw a line
+across only the highs or lows of some price action, you would have a band
+of price action similar to Figure 2-44. This produces the right idea, but is
+still not the best representation of the entire day's price action. The motion
+is important, but to correctly interpret market action requires data be of a
+singular nature. The price action on a bar chart consists of dual price
+
+000037

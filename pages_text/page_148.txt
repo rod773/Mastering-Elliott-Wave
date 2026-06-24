@@ -1,0 +1,48 @@
+m3 is composed of three monowaves [or monowave
+groups] or less)
+
+I m1 is less than or equal to m0 in time ox m1 is less than or equal to
+‘m2 in time and m(-2) is shorter than m(-1), mL may be the x-wave of a
+Complex Correction; place "x:c3" at the end of ml.
+
+If m1 takes the same amount of time (or more) as m0 2Em1 takes the
+same amount of time (or more) as m2 and m0 is close to 161.8% of m1,
+ml may be part of a Zigzag or Impulse pattern, place ":F3" at the end of
+mi
+
+If mL (plus one time unit) is completely retraced by m2 in the same
+amount of time (or less) that mi took to form and m2 is retraced less than
+61.8% OR more than 100% in a period of time equal to (or less) than that
+taken by m2 and m(-1) is atleast 61.8% of ml in price and time and if mi
+is a Compacted pattem, make sure no part of m1 moved beyond the
+beginning of m1 during mi’s formation, then there is a chance mt
+the C-wave of a Flat; place ":L5" at the end of m1 to show this
+y.
+
+If m1 (plus one time unit) is completely retraced by m2 in the same
+amount of time m1 took to form (or less) and m2 is retraced less than
+61.8% and m(-1) is at least 61.8% of m0 in price and time, there is a
+chance mi completed a Contracting Triangle or one of several Flat
+variations (depending on the length of m(-1)}; place ":L3V:L5" at the end of
+ml to show these two possibilities (respectively). If m1 is a polywave and
+part of mi exceeds mi's beginning, drop ":L5" as a possibility
+
+If m1 is completely retraced slower than it took to form and m2 is
+composed of three or more mono waves and m2 is longer than both m(-1)
+and m0, then m1 may be one of the middle legs of a Triangle; place ":c3"
+atthe end of ml
+
+I m2 (plus one time unit) is completely retraced in the same amount of
+time (or less) that it took to form and m0, when compared to m(-2) and
+‘m2, isnot the shortest of the three and the market approaches (or exceeds)
+the beginning of m(-2) in a period of time 50% (or less) of that taken by
+‘m(-2) through m2, a Terminal pattem may have concluded with m2; add
+"3" to any current Structure list present atthe end of ml
+
+If m3 is between 101%-161.8% of m2, an Expanding Triangle may be
+forming; if there is an "2F3" in mi’s Structure list, add brackets around it to
+indicate ":c3" isthe beter choice.
+
+Condition "c” — m0 is between 161.8% and 261.8% of m2
+
+000136

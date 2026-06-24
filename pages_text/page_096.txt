@@ -1,0 +1,31 @@
+Rule 1 (m2 is tess than 38.2% of m1)
+
+If m1 is retraced less than 38.2% by m2, Rule 1 applies; note that fact
+at the end of m1 (see Figure 3-23). Next, measure the relation of m0 to ml
+as previously described, then find that ratio in the list below. That will
+provide you with the "Condition" Identifier (alphabetic companion) which
+is to be placed to the right of the Rule Identifier.
+
+Figure 3-23
+
+Conditions for Rule 1
+
+Condition “a” - m0 is less than 61.8% of ma, m1 falls under the
+jurisdiction of Rule 1a (progress to Rule 1
+Condition "a" ofthe Pre-Constructive Rules of
+Logic*).
+
+Condition "b” ~ If m0 is atleast 61.8%. but less than 100% of mt, the
+properties of Rule Tb take effect (move to Rule 1,
+Condition "b” of the Pre-Constructive Rules of
+Logic)
+
+f m0 is between 100% and 161.8% of ml (inclusive),
+Rule 1c must be applied (advance to Rule 1,
+Condition “” ofthe Pre-Constructive Rules of
+Logic")
+
+Condition “a” — If m0 is more than 161.8% of mt (inclusive), Rule Id
+
+Condition
+

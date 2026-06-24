@@ -1,0 +1,43 @@
+would a market not have enough data points to create an Elliot pattern!”
+All analytical studies must be done within certain limitations. When you
+‘want to do some analysis, you have to decide which market to observe,
+you have to decide when to start you chart, what period of time the chart
+‘will cover and what type of data will be used. Will it be yearly data (which
+may be appropriate for real estate, farming or interest rates). Maybe the
+study requires shorter-term information such as weekly or daily (which is
+‘more appropriate for stock and commodity analysis). No matter what your
+decision, it wll create limits; ether on the amount of market action visible
+for analysis or on your time to analyze.
+
+‘Whatever period of time you choose to monitor, there is usually
+shorter-term price data available which would reveal further intricacies of
+price action. When a pattern on a shorter-term chart completes, there may
+(or may not be enough data points on the next larger chart for the same (but
+Jess detailed) pattern to fully develop. When the complexity of a short-
+term move exceeds the number of data points (time units) available to
+form the same pattern on a longer term chart, a simplified version of the
+same move, a monowave or a “missing wave" is unavoidable. An example
+of a simplified version is a complex pattern turning into a simple pattern (a
+Double Zigzag into a single Zigzag, see Figure 12-46). Or, if there is too
+much time disparity between one chart and the next, then the complex
+pattem on the short-term chart will appear as a monowave on the longer
+term char. Ifthe time difference between charts is small, a "missing wave"
+is virtually inevitable.
+
+For our theoretical example, we have chosen the London Gold am/pm
+fixes for our "longer-term" data and the continuously traded International
+Gold Market as our shorter-term data. The London Fixes (the best way to
+follow Gold, in my opinion) will provide us with two average Gold prices
+per day. The international Cash market will allow us to monitor the
+formation of super short-term Elliott patterns.
+
+In Figure 12-47, there are two plots. One is of the am/pm Gold Fix, the
+other of intraday cash Gold market data. ‘The light line is the IGM over
+several days. The dot in the middle of each day and at the end of each day
+represents the time when the London Fix was released. The dark line is
+the London Gold fixes plotted separately and each connected with a
+straight line. As you can plainly see, the IGM reveals an Impulse pattern
+over the three-day period. The London data displays a pattem which
+resembles a near perfect Zigzag; that is how a "missing wave" can occur.
+
+ovoa7e

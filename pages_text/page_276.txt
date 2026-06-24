@@ -1,0 +1,20 @@
+from another. For this reason, there was no need to continue naming
+moves of greater and greater Complexity. ‘Therefore, the term
+"Macrowave" will be used to describe any complex pattern above the
+Multiwave stage.
+
+‘The minimum requirement for a pattern to fall into the Macrowave
+category is that it contains at least one Multiwave and one Polywave
+(usually there will be two polywaves, see Figure 7-7), To derive the
+Complexity Level of Figure 7-7, first use the "automatic" rule. The pattern
+should immediately be considered of at least Level-1 Complexity since
+subdivisions are visible. Examine each Impulsive segment (of the same
+Degree) within the Macrowave. Choose the one with the highest rating and
+add that to the automatic Level-1 rating, In this case, the final advance is a
+Level-2 pattern, Add that to the automatic Level-1 and you get Level-3.
+Since this is the minimum Construction of a Macrowave, all Macrowaves
+‘must have a Level-3 rating or higher.
+
+Figure 7-7
+
+ovozee

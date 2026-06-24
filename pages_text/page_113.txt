@@ -1,0 +1,44 @@
+and you still find there are no stipulations for the conditions on your chart,
+tse the entire Structure list next to the Rule heading of each section. If ml
+is a compacted polywave (or higher) pattem and you, again, find no
+stipulations for the conditions on your chart, move on to the section
+entitled "Implementation of Position Indicators" (page 3-60) and use
+surrounding Structure labels to decide which Position Indicator if any
+belongs in front of mi’s compacted Structure label (i., in front of ":3"
+
+“S").
+
+Remember, all time and price calculations should be made from
+termination points (the dots used earlier to identify the end of each wave);
+this applies whether working with monowaves or compacted wave groups.
+If measurement is required to test the validity of a statement and the
+statement does not specifically mention whether to measure price or time,
+price is always implied. Furthermore, do not take these relationships so
+seriously that you eliminate a possibility just because a particular wave
+‘was 60% of mi when it was supposed to be" atleast 61.8% of m1.” All
+specific ratios mentioned in this text (such as 61.8%, 161.8%, etc.) must be
+given a slight range of error. When two patterns relate by 61.8%, that
+‘means the smaller of the two may be anywhere from approximately 58%
+to 66% of the larger wave. This provides about four (4) percent leeway
+either side of an ideal Fibonacci relationship. Finally, the phrase "almost"
+and "close to” used throughout this section translate to "within 10% of the
+ratio mentioned.’
+
+For the same reasons that relationships between waves cannot always
+be expected to behave perfectly, when following the guidelines listed
+this section, if all conditions except one are scrupulously adhered to (and
+the one which is not followed is off by just a little), you should probably
+assume the rules were correctly followed and place the suggested Structure
+label or list at the end of mi. This is all part of the Exception Rule
+discussed in Chapter 9, page 7.
+
+(On the other hand, time calculations which involve retracement of
+previous patterns must be taken precisely as written, For example, many
+times throughout this section you will find something like this; "if mL
+(plus one time unit) is retraced completely in the same amount of time that
+it took to form (or less),” that statement must be taken literally. In
+case, you would add one standard time unit (the time consumed from one
+data point to the next) to the number of time units consumed by mt, then
+Compare that larger amount to the number of time units taken by m2 to
+
+ovo102

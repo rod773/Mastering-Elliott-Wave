@@ -1,0 +1,49 @@
+If m2 is retraced at least 61.8%, but less than 100%, an Elongated Flat
+is the most likely pattern which concluded with m2; place ":c3" at the end
+of mi.
+
+I m2 (plus one time unit) is completely retraced in the same amount of
+time (or less) that it took to form, a Trending Impulse pattern may have
+concluded with m2; place ":L5" at the end of mi's Structure list. If m(-1) is
+shorter than m0 and m0, when compared to m(-2) and m2, is not the
+shortest of the three and the market approaches (or exceeds) the beginning
+of m(-2) in a period of time 50% or less of that consumed by m(-2)
+through m2, a Sth Extension Terminal may have completed with m2; add
+":sL3" to the list of possibilities atthe end of m1.
+
+Condition "c" ~ m0 is between 161.8% and 261.8% of m2 (inclusive)
+
+TE mt takes the same amount of time (or more) as m0 OR ml takes the
+same amount of time (or more) as m2, despite any other circumstances,
+"IF3" is a good possibility; place "3" at the end of ml.
+
+If the time it took for m2 to equal the length of m0 was equal to (or
+less) than that taken by m0 and m2's price coverage is larger and more
+vertical than mO and m(-4) is longer than mi(-2), then m1 may have
+completed a Contracting Triangle; place ":L3" atthe end of m1.
+
+If the time it took for m2 to equal the length of m0 was equal to (or
+less) than that taken by m0 and m2's price coverage is larger and more
+vertical than m0 and m(-2) is atleast 161.8% of m0 and m(-2) is at least
+61.8% of m2 and one of m(-1)'s Structure possibilities is an ":F3," ml
+may have completed an Irregular Failure Flat; place ":L5" at the end of
+mi
+
+I m2 (plus one time unit) is completely retraced in the same amount of
+time (or less) that it took to form and the market approaches (or exceeds)
+the beginning of m(-2) in a period of time 50% (or less) of that consumed
+bby m(-2) through m2 and m0 is longer than m(-2), an Expanding Terminal
+Impulse pattern may have concluded with m2; add ":sL3" to the end of
+mi
+
+I m1 (plus one time unit) is completely retraced in the same amount of
+time (or less) that it took to form and m2 is at least 161.8% of m0 and ml
+breaks through a line drawn across the end of m(-3) and m(-1), a Running
+Correction could have completed with ml; place :L5 at the end of m1.
+
+Condition "a" — m0 is more than 261.8% of m2
+
+If m0 (minus one time unit) is less than or equal in time to m1 OR if
+‘m2 (minus one time unit) is less than or equal in time to ml, and as Jong
+
+000140

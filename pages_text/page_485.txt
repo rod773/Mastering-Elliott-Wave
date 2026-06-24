@@ -1,0 +1,17 @@
+Figure 12-46] At twice the minimum level, there would be too much detail
+tw allow fora missing wave.
+
+From this it becomes clear that the range of data points which allows
+for a missing wave is half of the minimum plus one (+1) or twice the
+‘minimum minus one (-1). Any number of data points below the minimum
+(but higher than halfway) indicates a missing wave is a certainty or that
+your wave count is incorrect. For each additional data point above the
+‘minimum, the chances increase geometrically that a missing wave will not
+be present. Once the number of data points reaches twice the minimum
+level a missing wave should be considered impossible.
+
+Figure 12-46
+
+Why do they occur?
+
+Now that you know how they occur, the question comes up, “Why

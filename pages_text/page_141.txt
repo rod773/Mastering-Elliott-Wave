@@ -1,0 +1,46 @@
+Standard Elliott pattern which is part of a Complex Correction. where
+‘m¢-2) is an xwave; place ":L5" at the end of mi and "x:c32" at the end of
+m(-2). In the above situation, if m(-1) is at least 161.8 % of m0, the
+Standard Correction unfolding is probably a Zigzag. If m(-1) is at least
+100%, but less than 161.8% of m0, the Standard Correction is probably a
+Flat.
+
+I m1 (plus one time unit) is completely retraced in the same amount of
+time (or less) that it took to form and m2 is smaller than m(-2), a Flat or
+Zigzag may have concluded with m1; place" :L" atthe end of m1
+
+If mi (plus one time unit) is completely retraced in the same amount of
+time (or less) that it took to form and m(-2) is smaller than m(-1) and
+‘mG-1) is not the shortest when compared to m(-3) and m1 and m2 is not
+retraced more than 61.8% and the market approaches (or exceeds) the
+beginning of m(-3) within a time period which is 50% or less of that
+consumed by m(-3) through ml and the end of mi is not exceeded for a
+period which is four times as long as that consumed by m(-3) through
+mland m2m4's price coverage is at least twice that of m1 and one of
+mG1)s possible Structure labels is "<3," a Terminal Impulse may have
+completed at the end of m1; add ":L3" to the current Structure list for m1.
+
+If ml (plus one time unit) is completely retraced in the same amount of
+time (or less) that it took to form and m3 is between 61.8-100% of m1, mi
+‘may be part of an regular Failure Flat; place ":F3" atthe end of ml.
+
+If ml (plus one time unit) is completely retraced in the same amount of
+time (or less) that it took to form and m3 is longer than m2 and m0 is at
+Teast 161.8% of m2 and m3 is completely retraced in the same amount of
+time (or less) that it took to form, m1 may be part of an Irregular Flat;
+place ":F3” at the end of ml.
+
+If m1 is completely retraced slower than it took to form and m2 did
+not retrace more than 61.8% ofthe distance from the beginning of m(-1) to
+the end of m1 and m3 is shorter than m2, the market may be concluding a
+Complex Correction in which m1 will be the most extreme price obtained
+by the market for a period at least twice that of the combined times of m0-
+‘m2; place an ":F3" at the end of ml.
+
+If m1 is completely retraced slower than it took to form and m3 is
+longer than m2 and m2 is not more than 61.8% of the price distance from
+the beginning of m(-1) to the end of m1, then the market could be forming
+Complex Correction (where m1 would be the end of one corrective phase
+of the pattern and m2 would probably be the end of an x-wave) or an
+
+ovo129

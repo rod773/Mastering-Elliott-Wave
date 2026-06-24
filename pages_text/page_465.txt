@@ -1,0 +1,29 @@
+‘When wave-1 is the longest wave in a patter, wave-3 should not be
+‘more than 61.8% of wave-1, When wave-3 is 61.8% of wave-1, wave-5
+(applying the rule of Alteration) will usually be 38.2% of wave-3. If
+‘wave-3 is 38.2% of wave-1, then wave-5 will usually be 61.8% of wave-3.
+That is basically all the Internal relationships possible in a Ist wave
+Extension (see Figute 12-26).
+
+3rd Wave Extension
+‘When the 3rd wave extends in a pattem, wave-L must not relate to
+‘wave-3 Internally by 61.8%, It could be 38.2% of wave-3, but frequently
+they will not relate Internally at all (study Figure 12-27). When the 3rd
+‘wave isthe longest, wave-1 and wave-5 should be nearly equal (100%) in
+price oF related by 61.8% or 38.2% (ordered from the most to least
+common relationship). If wave-4 is the complex correction, the Sth-wave
+should be equal to or greater than wave-1. If wave-2 is the complex
+correction, wave-S should be equal t0 or less than wave-1. If wave-1 is
+extremely small in relation to wave-3, the Sth wave will be 38.2% of the
+entire distance traveled from the beginning of wave-1 to the top of wave3
+added to the end of wave-4 (refer to Figure 12-27). The Sth wave must be
+
+less than 61.8% of wave3 if wave-3 isthe Extension,
+
+Figure 12-26
+
+1.00
+
+Figure 12-27
+
+0004s

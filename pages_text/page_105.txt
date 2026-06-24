@@ -1,0 +1,24 @@
+Rule 5 (m2 is atleast 100%, but ess than 161.8% of m1)
+
+For Rule 5 to be activated, m1 must be retraced at least 100%. but less
+
+an_161,8% by m2 (see Figure 3-28). Once that requirement has been
+‘met, you must observe the relationship of m0 to m1. Find that relationship
+in the list below to determine the Condition Identifier which should be
+attached to Rule 5.
+
+Figure 3-28
+
+Conditions for Rule 5
+
+Condition “a” -- 1f m0 is less than 100% of mi, then Rule Sa is
+activated; make note of that atthe end of m1
+(progress to Rule 5, Condition "a" of the Pre
+Constructive Rules of Logic*).
+
+If m0 is at least 100%, but less than 161.8% of m1;
+
+then the properties of Rule Sb take effect (move to
+
+Condition
+

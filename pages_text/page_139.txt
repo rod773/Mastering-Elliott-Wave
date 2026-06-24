@@ -1,0 +1,35 @@
+center of m0 with a dot and place "x:¢32" to the right and ":s5" to the left
+of it If the end of m1 is exceeded during the formation of m2, ml may be
+an x-wave, add "x:¢3" to mis list.
+
+If m2 is retraced slower than it took to form and m(-1) is not more
+than 61.8% of m0 and m3 is retraced no more than 61.8%and m3 through
+‘mS consume 161.8% (or more) of m1 in price within the same amount of
+time (or less) as m1, m1 may be part of a complex correction in which m0
+Contains a "missing" x-wave toward its center; place ":F3/{:c3]" atthe end
+of mi and mark (with a pencil) the center of m0 with a dot and place
+"yi¢32" tthe right and ":s5" to the left of it. Ifthe end of ml is exceeded
+during the formation of m2, mi may be an x-wave, add "x:c3" to mis lst.
+
+If m2 is retraced slower than it took to form, a Flat or Triangle is
+probably involved; place an "F3" atthe end of ml
+
+If m0 isa poly wave (or a monowave with a suspected "missing" wave
+toward its cente), mL may be an x-wave of a Complex Correction; add
+
+':c3" to any existing Structure labels atthe end of m1.
+
+If mC) is no more than 61.8% of m0, mL may be an x-wave of a
+Complex Correction; add "x:c3" to any existing Structure labels atthe end
+of mi
+
+Category " ‘m3 is more than 261.8% of m2
+
+If m3 takes no more time than m1 and m2 (plus one time unit) is
+completely retraced in the same amount of time (or less) that it took to
+form, there is a strong possibility of a "missing" x-wave hidden toward the
+‘middle of m0; put an "x:c3” next to the termination of ml. If m3 through
+mS fail to exceed the beginning of m0 and m3 is retraced at least 61.8%, it
+is also very possible mI is the first leg of an Elongated Flat; add "
+the end of mi.
+

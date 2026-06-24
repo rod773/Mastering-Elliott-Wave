@@ -1,0 +1,4 @@
+Observation: Any three adjacent patterns in a sequence will usually
+relate by time in one of the following ways:
+
+A. Ifthe first wo segments of a pattern are equal in time, the third will

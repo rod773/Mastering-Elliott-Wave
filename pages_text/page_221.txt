@@ -1,0 +1,26 @@
+This rule applies no matter how simple or complex each segment is. In
+order of occurrence, each segment of the Triangle is given a letter of
+the alphabet: (a,b,c,de)
+
+(ee Figure 5-29)
+
+2. Each Segment of the Triangle is (or represents, in the case of
+
+‘monowaves) a Complete Corrective phase (a ":3").
+
+Figure 5-29
+
+3. Unlike an Impulse pattern, which tends to trend up or down, the five
+segments of a Triangle will oscillate over and over in the same price
+territory (overlap) with a slightly Expanding or Contracting bias
+(Figure 5-30, next page)
+
+4, The Triangle can drift slightly upward or downward without affecting
+these general guidelines (see Figure 5-31, next page).
+
+5, The length of wave-b must fall between 38.2-261.8% of wave-a.
+NOTE: there is a strong tendency for wave-b to avoid a 100% price
+relation to wave.
+
+Figure 5-30
+

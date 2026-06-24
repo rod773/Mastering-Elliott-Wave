@@ -1,0 +1,43 @@
+of surrounding market action. Since two varieties of Structure labels exist
+(those that contain Position Indicators and those that do not), specific
+phrases representing each variety have to be coined to allow for accurate
+and intelligible coverage ofthis subject. The phrase, "base Structure label,”
+describes a Structure label which isnot preceded by a Position Indicator
+(ie, solely a":3" or a:5" is present), A Structure label which is preceded
+by a Position Indicator (ie., :F3, :¢3, 255, :L5, etc.) will be termed a
+“positioned Structure label.” Inthe paragraphs to follow, if the Structure of
+a pattern is not important, is unknown or bares no significance to the
+discussion, the truncated phrase, "Structure Label,” will be used to
+encompass both possibilities.
+
+‘The Position Rules must be used whenever there are wave segments
+which contain multiple Structure label possibilities. The use of Position
+Indicators is the only way novice Ellioticians can properly piece together
+reliable Wave pattems. Surprisingly, this same approach is used by expert
+Elliott Wave analysts, but most have interalized the process (through
+practice) to the point that they do not realize they are applying these
+concepts; they probably do not even realize they are applying Elliott Wave
+techniques in a standardized fashion the same approach presented in this
+book.
+
+‘The implementation of Position Indicators begins to intensify the
+bonds between adjacent wave segments due to rules which guide Position
+Indicator coexistence. They begin to exert a degree of order to the
+seemingly random fluctuations of market action. Position Indicators are
+the the next clarifying step toward unraveling current market action.
+
+If you find a wave on your chart which possesses multiple Structure
+label choices, the Position Indicators will be needed to simplify your
+choices. These Indicators will assist you in eliminating all but one
+Structure choice from mi’s list. Once all waves on your chart possess only
+Cone Structure label, later in this chapter you will learn how to use these
+Structure labels to isolate important beginning and ending points of Eliott
+pattems. For those of you who have had difficulty in the past deciding
+Where to start your analysis, this section will be the answer to your
+prayers.
+
+Directions
+By the time you reach this section, the internal Structure of numerous.
+'monowaves on your chart should have been established. Unfortunately, the
+
+oo0143

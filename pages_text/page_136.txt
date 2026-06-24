@@ -1,0 +1,37 @@
+"x3" as a possibility. If m0 simultaneously takes less time than m(-1) and
+ml, drop ":s5" from list. Ifthe end of ml is exceeded during the formation
+‘of m2, add an "x" in front of ":c3."
+
+Condi
+Category "i" ~ if m3 is atleast 100%, but less than 161,8% of m2
+
+‘The subtleties of this situation do not allow for specific quamtifications,
+just place an ":F3/:c3" at the end of ml. If the end of ml is exceeded
+during the formation of m2, add an "x" in front of ":c3." The interaction of
+‘m1 with surrounding Structure will help to decide which of the wo
+‘Structure labels best fits current conditions.
+
+Category “ii” — if m3 is between 161.8% and 261.8% of m2
+Ginclusive)
+
+If m2 (plus one time unit) is completely retraced in the same amount of
+time (or less) that it took to form and m3 is more than 161.8% of m1, the
+chances are better that m1 was the center section of a CFailure Flat or of a
+Contracting Triangle; place ":c3/(-F3)! at the end of m1. If the end of m1
+is exceeded during the formation of m2, add an "x" in front of ":c3." Ifthe
+lower probability "(:F3)" is correct, m1 is part of an Elongated Flat,
+
+Under all other situations, place ":F3/:c3/x:c3" at the end of m2,
+
+Category "iti" -- if m3 is more than 261.8% of m2
+
+If m2 (plus one time unit) is completely retraced in the same amount of
+time (or less) that it took to form, it is almost certain m1 is the center
+section of a C-Failure Flat or a Non-Limiting, Contracting Triangle; place
+":c3/:E3]" at the end of mi. If the end of m1 is exceeded during the
+formation of m2, add an "x" in front of ":¢3." The only way "[:F3]" should
+be considered is if m3 is retraced more than 61.8% within a period of time
+equal to or less than m3.
+
+(:03/(-F3)/(x:c3)}
+
